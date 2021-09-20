@@ -65321,11 +65321,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Feroz Nakhchir",
         "provinceName": "Samangan",
-        "id": "1903",
-        "provinceId": "AF-SAM"
+        "id": 1903,
+        "provinceId": "AF-SAM",
+        "population": 15004
       },
       "id": "1903"
     },
@@ -65611,11 +65617,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Darah Suf-e-Bala",
         "provinceName": "Samangan",
-        "id": "1905",
-        "provinceId": "AF-SAM"
+        "id": 1905,
+        "provinceId": "AF-SAM",
+        "population": 74349
       },
       "id": "1905"
     },
@@ -65821,11 +65833,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ruy-e-Du Ab",
         "provinceName": "Samangan",
-        "id": "1907",
-        "provinceId": "AF-SAM"
+        "id": 1907,
+        "provinceId": "AF-SAM",
+        "population": 52450
       },
       "id": "1907"
     },
@@ -66031,11 +66049,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khuram wa Sarbagh",
         "provinceName": "Samangan",
-        "id": "1906",
-        "provinceId": "AF-SAM"
+        "id": 1906,
+        "provinceId": "AF-SAM",
+        "population": 45826
       },
       "id": "1906"
     },
@@ -78019,11 +78043,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Hazrat Sultan",
         "provinceName": "Samangan",
-        "id": "1902",
-        "provinceId": "AF-SAM"
+        "id": 1902,
+        "provinceId": "AF-SAM",
+        "population": 47583
       },
       "id": "1902"
     },
@@ -78189,11 +78219,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Darah Suf-e- Payin",
         "provinceName": "Samangan",
-        "id": "1904",
-        "provinceId": "AF-SAM"
+        "id": 1904,
+        "provinceId": "AF-SAM",
+        "population": 82190
       },
       "id": "1904"
     },
@@ -78347,11 +78383,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Aybak",
         "provinceName": "Samangan",
-        "id": "1901",
-        "provinceId": "AF-SAM"
+        "id": 1901,
+        "provinceId": "AF-SAM",
+        "population": 120833
       },
       "id": "1901"
     },
