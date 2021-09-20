@@ -20891,11 +20891,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tarnak Wa Jaldak",
         "provinceName": "Zabul",
-        "id": "2404",
-        "provinceId": "AF-ZAB"
+        "id": 2404,
+        "provinceId": "AF-ZAB",
+        "population": 22603
       },
       "id": "2404"
     },
@@ -21033,11 +21039,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mizan",
         "provinceName": "Zabul",
-        "id": "2403",
-        "provinceId": "AF-ZAB"
+        "id": 2403,
+        "provinceId": "AF-ZAB",
+        "population": 22001
       },
       "id": "2403"
     },
@@ -21155,11 +21167,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Atghar",
         "provinceName": "Zabul",
-        "id": "2409",
-        "provinceId": "AF-ZAB"
+        "id": 2409,
+        "provinceId": "AF-ZAB",
+        "population": 14305
       },
       "id": "2409"
     },
@@ -21389,11 +21407,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Day chopan",
         "provinceName": "Zabul",
-        "id": "2408",
-        "provinceId": "AF-ZAB"
+        "id": 2408,
+        "provinceId": "AF-ZAB",
+        "population": 45285
       },
       "id": "2408"
     },
@@ -21579,11 +21603,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Arghandab",
         "provinceName": "Zabul",
-        "id": "2402",
-        "provinceId": "AF-ZAB"
+        "id": 2402,
+        "provinceId": "AF-ZAB",
+        "population": 37580
       },
       "id": "2402"
     },
@@ -21761,11 +21791,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Qalat",
         "provinceName": "Zabul",
-        "id": "2401",
-        "provinceId": "AF-ZAB"
+        "id": 2401,
+        "provinceId": "AF-ZAB",
+        "population": 45798
       },
       "id": "2401"
     },
@@ -21991,11 +22027,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kakar",
         "provinceName": "Zabul",
-        "id": "2407",
-        "provinceId": "AF-ZAB"
+        "id": 2407,
+        "provinceId": "AF-ZAB",
+        "population": 27710
       },
       "id": "2407"
     },
@@ -22185,11 +22227,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shah Joy",
         "provinceName": "Zabul",
-        "id": "2406",
-        "provinceId": "AF-ZAB"
+        "id": 2406,
+        "provinceId": "AF-ZAB",
+        "population": 81285
       },
       "id": "2406"
     },
@@ -22431,11 +22479,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shinkay",
         "provinceName": "Zabul",
-        "id": "2405",
-        "provinceId": "AF-ZAB"
+        "id": 2405,
+        "provinceId": "AF-ZAB",
+        "population": 32469
       },
       "id": "2405"
     },
@@ -22637,11 +22691,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Naw Bahar",
         "provinceName": "Zabul",
-        "id": "2411",
-        "provinceId": "AF-ZAB"
+        "id": 2411,
+        "provinceId": "AF-ZAB",
+        "population": 24962
       },
       "id": "2411"
     },
@@ -25115,11 +25175,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shomulzay",
         "provinceName": "Zabul",
-        "id": "2410",
-        "provinceId": "AF-ZAB"
+        "id": 2410,
+        "provinceId": "AF-ZAB",
+        "population": 37152
       },
       "id": "2410"
     },
