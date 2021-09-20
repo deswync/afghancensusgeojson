@@ -49669,11 +49669,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Lal Wa Sarjangal",
         "provinceName": "Ghor",
-        "id": "2108",
-        "provinceId": "AF-GHO"
+        "id": 2108,
+        "provinceId": "AF-GHO",
+        "population": 128826
       },
       "id": "2108"
     },
@@ -61257,11 +61263,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Saghar",
         "provinceName": "Ghor",
-        "id": "2110",
-        "provinceId": "AF-GHO"
+        "id": 2110,
+        "provinceId": "AF-GHO",
+        "population": 39878
       },
       "id": "2110"
     },
@@ -61519,11 +61531,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Taywarah",
         "provinceName": "Ghor",
-        "id": "2106",
-        "provinceId": "AF-GHO"
+        "id": 2106,
+        "provinceId": "AF-GHO",
+        "population": 105170
       },
       "id": "2106"
     },
@@ -61745,11 +61763,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tolak",
         "provinceName": "Ghor",
-        "id": "2109",
-        "provinceId": "AF-GHO"
+        "id": 2109,
+        "provinceId": "AF-GHO",
+        "population": 59209
       },
       "id": "2109"
     },
@@ -62075,11 +62099,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shahrak",
         "provinceName": "Ghor",
-        "id": "2105",
-        "provinceId": "AF-GHO"
+        "id": 2105,
+        "provinceId": "AF-GHO",
+        "population": 68806
       },
       "id": "2105"
     },
@@ -62425,11 +62455,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Du Lina",
         "provinceName": "Ghor",
-        "id": "2103",
-        "provinceId": "AF-GHO"
+        "id": 2103,
+        "provinceId": "AF-GHO",
+        "population": 41500
       },
       "id": "2103"
     },
@@ -62587,11 +62623,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chahar Sadra",
         "provinceName": "Ghor",
-        "id": "2102",
-        "provinceId": "AF-GHO"
+        "id": 2102,
+        "provinceId": "AF-GHO",
+        "population": 31497
       },
       "id": "2102"
     },
@@ -63073,11 +63115,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Chaghcharan",
         "provinceName": "Ghor",
-        "id": "2101",
-        "provinceId": "AF-GHO"
+        "id": 2101,
+        "provinceId": "AF-GHO",
+        "population": 134906
       },
       "id": "2101"
     },
@@ -63239,11 +63287,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dawlat Yar",
         "provinceName": "Ghor",
-        "id": "2104",
-        "provinceId": "AF-GHO"
+        "id": 2104,
+        "provinceId": "AF-GHO",
+        "population": 37581
       },
       "id": "2104"
     },
@@ -80091,11 +80145,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pasaband",
         "provinceName": "Ghor",
-        "id": "2107",
-        "provinceId": "AF-GHO"
+        "id": 2107,
+        "provinceId": "AF-GHO",
+        "population": 109090
       },
       "id": "2107"
     },
