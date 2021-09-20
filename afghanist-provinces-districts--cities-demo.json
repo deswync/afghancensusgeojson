@@ -34557,11 +34557,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Nili",
         "provinceName": "Daykundi",
-        "id": "2201",
-        "provinceId": "AF-DAY"
+        "id": 2201,
+        "provinceId": "AF-DAY",
+        "population": 43580
       },
       "id": "2201"
     },
@@ -34799,11 +34805,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Miramor",
         "provinceName": "Daykundi",
-        "id": "2209",
-        "provinceId": "AF-DAY"
+        "id": 2209,
+        "provinceId": "AF-DAY",
+        "population": 87526
       },
       "id": "2209"
     },
@@ -35037,11 +35049,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shahristan",
         "provinceName": "Daykundi",
-        "id": "2206",
-        "provinceId": "AF-DAY"
+        "id": 2206,
+        "provinceId": "AF-DAY",
+        "population": 82152
       },
       "id": "2206"
     },
@@ -35303,11 +35321,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ashtarlay",
         "provinceName": "Daykundi",
-        "id": "2202",
-        "provinceId": "AF-DAY"
+        "id": 2202,
+        "provinceId": "AF-DAY",
+        "population": 62244
       },
       "id": "2202"
     },
@@ -50017,11 +50041,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sang-e-Takht",
         "provinceName": "Daykundi",
-        "id": "2207",
-        "provinceId": "AF-DAY"
+        "id": 2207,
+        "provinceId": "AF-DAY",
+        "population": 60074
       },
       "id": "2207"
     },
@@ -50235,11 +50265,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khadir",
         "provinceName": "Daykundi",
-        "id": "2203",
-        "provinceId": "AF-DAY"
+        "id": 2203,
+        "provinceId": "AF-DAY",
+        "population": 54368
       },
       "id": "2203"
     },
@@ -50457,11 +50493,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "kiti",
         "provinceName": "Daykundi",
-        "id": "2204",
-        "provinceId": "AF-DAY"
+        "id": 2204,
+        "provinceId": "AF-DAY",
+        "population": 57421
       },
       "id": "2204"
     },
@@ -50695,11 +50737,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kajran",
         "provinceName": "Daykundi",
-        "id": "2208",
-        "provinceId": "AF-DAY"
+        "id": 2208,
+        "provinceId": "AF-DAY",
+        "population": 37710
       },
       "id": "2208"
     },
@@ -66585,11 +66633,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sayad",
         "provinceName": "Sari Pul",
-        "id": "2002",
-        "provinceId": "AF-SAR"
+        "id": 2002,
+        "provinceId": "AF-SAR",
+        "population": 62724
       },
       "id": "2002"
     },
