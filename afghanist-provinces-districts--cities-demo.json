@@ -68125,11 +68125,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Baghlan-e-jadid",
         "provinceName": "Baghlan",
-        "id": "902",
-        "provinceId": "AF-BGL"
+        "id": 902,
+        "provinceId": "AF-BGL",
+        "population": 202375
       },
       "id": "902"
     },
@@ -68271,11 +68277,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Burka",
         "provinceName": "Baghlan",
-        "id": "910",
-        "provinceId": "AF-BGL"
+        "id": 910,
+        "provinceId": "AF-BGL",
+        "population": 60561
       },
       "id": "910"
     },
@@ -68429,11 +68441,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dahana-e-Ghory",
         "provinceName": "Baghlan",
-        "id": "903",
-        "provinceId": "AF-BGL"
+        "id": 903,
+        "provinceId": "AF-BGL",
+        "population": 67796
       },
       "id": "903"
     },
@@ -68539,11 +68557,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Pul-e- khumri",
         "provinceName": "Baghlan",
-        "id": "901",
-        "provinceId": "AF-BGL"
+        "id": 901,
+        "provinceId": "AF-BGL",
+        "population": 247923
       },
       "id": "901"
     },
@@ -68769,11 +68793,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dushi",
         "provinceName": "Baghlan",
-        "id": "904",
-        "provinceId": "AF-BGL"
+        "id": 904,
+        "provinceId": "AF-BGL",
+        "population": 76917
       },
       "id": "904"
     },
@@ -68907,11 +68937,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nahrin",
         "provinceName": "Baghlan",
-        "id": "905",
-        "provinceId": "AF-BGL"
+        "id": 905,
+        "provinceId": "AF-BGL",
+        "population": 79847
       },
       "id": "905"
     },
@@ -69029,11 +69065,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwaja Hejran",
         "provinceName": "Baghlan",
-        "id": "909",
-        "provinceId": "AF-BGL"
+        "id": 909,
+        "provinceId": "AF-BGL",
+        "population": 27442
       },
       "id": "909"
     },
@@ -69195,11 +69237,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Andarab",
         "provinceName": "Baghlan",
-        "id": "908",
-        "provinceId": "AF-BGL"
+        "id": 908,
+        "provinceId": "AF-BGL",
+        "population": 29334
       },
       "id": "908"
     },
@@ -69337,11 +69385,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khenjan",
         "provinceName": "Baghlan",
-        "id": "907",
-        "provinceId": "AF-BGL"
+        "id": 907,
+        "provinceId": "AF-BGL",
+        "population": 35011
       },
       "id": "907"
     },
@@ -69583,11 +69637,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tala wa barfak",
         "provinceName": "Baghlan",
-        "id": "906",
-        "provinceId": "AF-BGL"
+        "id": 906,
+        "provinceId": "AF-BGL",
+        "population": 34741
       },
       "id": "906"
     },
@@ -69681,11 +69741,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Guzargah-e- Nur",
         "provinceName": "Baghlan",
-        "id": "914",
-        "provinceId": "AF-BGL"
+        "id": 914,
+        "provinceId": "AF-BGL",
+        "population": 11625
       },
       "id": "914"
     },
@@ -69763,11 +69829,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Firing Wa Gharu",
         "provinceName": "Baghlan",
-        "id": "915",
-        "provinceId": "AF-BGL"
+        "id": 915,
+        "provinceId": "AF-BGL",
+        "population": 72592
       },
       "id": "915"
     },
@@ -69857,11 +69929,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Deh Salah",
         "provinceName": "Baghlan",
-        "id": "912",
-        "provinceId": "AF-BGL"
+        "id": 912,
+        "provinceId": "AF-BGL",
+        "population": 36769
       },
       "id": "912"
     },
@@ -76759,11 +76837,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khowst wa Fereng",
         "provinceName": "Baghlan",
-        "id": "913",
-        "provinceId": "AF-BGL"
+        "id": 913,
+        "provinceId": "AF-BGL",
+        "population": 72592
       },
       "id": "913"
     },
@@ -76893,11 +76977,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pul-e-Hesar",
         "provinceName": "Baghlan",
-        "id": "911",
-        "provinceId": "AF-BGL"
+        "id": 911,
+        "provinceId": "AF-BGL",
+        "population": 31767
       },
       "id": "911"
     },
