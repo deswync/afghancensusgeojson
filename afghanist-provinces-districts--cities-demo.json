@@ -56463,11 +56463,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Muqur",
         "provinceName": "Badghis",
-        "id": "2902",
-        "provinceId": "AF-BDG"
+        "id": 2902,
+        "provinceId": "AF-BDG",
+        "population": 27307
       },
       "id": "2902"
     },
@@ -56633,11 +56639,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ab Kamari",
         "provinceName": "Badghis",
-        "id": "2903",
-        "provinceId": "AF-BDG"
+        "id": 2903,
+        "provinceId": "AF-BDG",
+        "population": 84622
       },
       "id": "2903"
     },
@@ -56895,11 +56907,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qadis",
         "provinceName": "Badghis",
-        "id": "2904",
-        "provinceId": "AF-BDG"
+        "id": 2904,
+        "provinceId": "AF-BDG",
+        "population": 104629
       },
       "id": "2904"
     },
@@ -57353,11 +57371,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jawand",
         "provinceName": "Badghis",
-        "id": "2905",
-        "provinceId": "AF-BDG"
+        "id": 2905,
+        "provinceId": "AF-BDG",
+        "population": 90706
       },
       "id": "2905"
     },
@@ -57771,11 +57795,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bala Murghab",
         "provinceName": "Badghis",
-        "id": "2906",
-        "provinceId": "AF-BDG"
+        "id": 2906,
+        "provinceId": "AF-BDG",
+        "population": 111793
       },
       "id": "2906"
     },
@@ -57937,11 +57967,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ghormach",
         "provinceName": "Badghis",
-        "id": "2907",
-        "provinceId": "AF-BDG"
+        "id": 2907,
+        "provinceId": "AF-BDG",
+        "population": 63399
       },
       "id": "2907"
     },
@@ -80257,11 +80293,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Qala-e-Naw",
         "provinceName": "Badghis",
-        "id": "2901",
-        "provinceId": "AF-BDG"
+        "id": 2901,
+        "provinceId": "AF-BDG",
+        "population": 76841
       },
       "id": "2901"
     },
