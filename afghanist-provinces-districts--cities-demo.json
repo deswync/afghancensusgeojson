@@ -15401,11 +15401,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qala-e-Kah",
         "provinceName": "Farah",
-        "id": "3106",
-        "provinceId": "AF-FRA"
+        "id": 3106,
+        "provinceId": "AF-FRA",
+        "population": 35417
       },
       "id": "3106"
     },
@@ -15491,11 +15497,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pusht Rod",
         "provinceName": "Farah",
-        "id": "3105",
-        "provinceId": "AF-FRA"
+        "id": 3105,
+        "provinceId": "AF-FRA",
+        "population": 46772
       },
       "id": "3105"
     },
@@ -15677,11 +15689,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shib Koh",
         "provinceName": "Farah",
-        "id": "3107",
-        "provinceId": "AF-FRA"
+        "id": 3107,
+        "provinceId": "AF-FRA",
+        "population": 26901
       },
       "id": "3107"
     },
@@ -15963,11 +15981,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Farah",
         "provinceName": "Farah",
-        "id": "3101",
-        "provinceId": "AF-FRA"
+        "id": 3101,
+        "provinceId": "AF-FRA",
+        "population": 130567
       },
       "id": "3101"
     },
@@ -16133,11 +16157,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kang",
         "provinceName": "Nimroz",
-        "id": "3402",
-        "provinceId": "AF-NIM"
+        "id": 3402,
+        "provinceId": "AF-NIM",
+        "population": 25819
       },
       "id": "3402"
     },
@@ -16239,11 +16269,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Zaranj",
         "provinceName": "Nimroz",
-        "id": "3401",
-        "provinceId": "AF-NIM"
+        "id": 3401,
+        "provinceId": "AF-NIM",
+        "population": 66653
       },
       "id": "3401"
     },
@@ -16425,11 +16461,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bakwa",
         "provinceName": "Farah",
-        "id": "3102",
-        "provinceId": "AF-FRA"
+        "id": 3102,
+        "provinceId": "AF-FRA",
+        "population": 40825
       },
       "id": "3102"
     },
@@ -43379,11 +43421,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khash Rod",
         "provinceName": "Nimroz",
-        "id": "3405",
-        "provinceId": "AF-NIM"
+        "id": 3405,
+        "provinceId": "AF-NIM",
+        "population": 29199
       },
       "id": "3405"
     },
@@ -43733,11 +43781,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chakhansur",
         "provinceName": "Nimroz",
-        "id": "3404",
-        "provinceId": "AF-NIM"
+        "id": 3404,
+        "provinceId": "AF-NIM",
+        "population": 27307
       },
       "id": "3404"
     },
@@ -43891,11 +43945,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chahar Burjak",
         "provinceName": "Nimroz",
-        "id": "3403",
-        "provinceId": "AF-NIM"
+        "id": 3403,
+        "provinceId": "AF-NIM",
+        "population": 30415
       },
       "id": "3403"
     },
@@ -47345,11 +47405,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Lash-e-Juwayn",
         "provinceName": "Farah",
-        "id": "3108",
-        "provinceId": "AF-FRA"
+        "id": 3108,
+        "provinceId": "AF-FRA",
+        "population": 32173
       },
       "id": "3108"
     },
@@ -51651,11 +51717,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bala Buluk",
         "provinceName": "Farah",
-        "id": "3103",
-        "provinceId": "AF-FRA"
+        "id": 3103,
+        "provinceId": "AF-FRA",
+        "population": 82189
       },
       "id": "3103"
     },
@@ -52073,11 +52145,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gulestan",
         "provinceName": "Farah",
-        "id": "3109",
-        "provinceId": "AF-FRA"
+        "id": 3109,
+        "provinceId": "AF-FRA",
+        "population": 49882
       },
       "id": "3109"
     },
@@ -52283,11 +52361,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khak-e-Safed",
         "provinceName": "Farah",
-        "id": "3104",
-        "provinceId": "AF-FRA"
+        "id": 3104,
+        "provinceId": "AF-FRA",
+        "population": 34876
       },
       "id": "3104"
     },
@@ -52601,11 +52685,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Anar Dara",
         "provinceName": "Farah",
-        "id": "3111",
-        "provinceId": "AF-FRA"
+        "id": 3111,
+        "provinceId": "AF-FRA",
+        "population": 32037
       },
       "id": "3111"
     },
@@ -79815,11 +79905,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pur Chaman",
         "provinceName": "Farah",
-        "id": "3110",
-        "provinceId": "AF-FRA"
+        "id": 3110,
+        "provinceId": "AF-FRA",
+        "population": 61507
       },
       "id": "3110"
     },
