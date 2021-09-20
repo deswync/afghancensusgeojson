@@ -67699,11 +67699,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qala-e-Zal",
         "provinceName": "Kunduz",
-        "id": "1703",
-        "provinceId": "AF-KDZ"
+        "id": 1703,
+        "provinceId": "AF-KDZ",
+        "population": 81147
       },
       "id": "1703"
     },
@@ -67817,11 +67823,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chahar Darah",
         "provinceName": "Kunduz",
-        "id": "1704",
-        "provinceId": "AF-KDZ"
+        "id": 1704,
+        "provinceId": "AF-KDZ",
+        "population": 84488
       },
       "id": "1704"
     },
@@ -67967,11 +67979,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Imam Saheb",
         "provinceName": "Kunduz",
-        "id": "1702",
-        "provinceId": "AF-KDZ"
+        "id": 1702,
+        "provinceId": "AF-KDZ",
+        "population": 232846
       },
       "id": "1702"
     },
@@ -68073,11 +68091,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dasht-e-Archi",
         "provinceName": "Kunduz",
-        "id": "1707",
-        "provinceId": "AF-KDZ"
+        "id": 1707,
+        "provinceId": "AF-KDZ",
+        "population": 97606
       },
       "id": "1707"
     },
@@ -68199,11 +68223,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Kunduz",
         "provinceName": "Kunduz",
-        "id": "1701",
-        "provinceId": "AF-KDZ"
+        "id": 1701,
+        "provinceId": "AF-KDZ",
+        "population": 374746
       },
       "id": "1701"
     },
@@ -68301,11 +68331,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ali Abad",
         "provinceName": "Kunduz",
-        "id": "1705",
-        "provinceId": "AF-KDZ"
+        "id": 1705,
+        "provinceId": "AF-KDZ",
+        "population": 54207
       },
       "id": "1705"
     },
@@ -68471,11 +68507,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khan Abad",
         "provinceName": "Kunduz",
-        "id": "1706",
-        "provinceId": "AF-KDZ"
+        "id": 1706,
+        "provinceId": "AF-KDZ",
+        "population": 159539
       },
       "id": "1706"
     },
