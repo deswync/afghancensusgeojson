@@ -58055,11 +58055,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Almar",
         "provinceName": "Faryab",
-        "id": "2805",
-        "provinceId": "AF-FYB"
+        "id": 2805,
+        "provinceId": "AF-FYB",
+        "population": 80838
       },
       "id": "2805"
     },
@@ -58277,11 +58283,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kohistan",
         "provinceName": "Faryab",
-        "id": "2807",
-        "provinceId": "AF-FYB"
+        "id": 2807,
+        "provinceId": "AF-FYB",
+        "population": 62723
       },
       "id": "2807"
     },
@@ -58459,11 +58471,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Garziwan",
         "provinceName": "Faryab",
-        "id": "2808",
-        "provinceId": "AF-FYB"
+        "id": 2808,
+        "provinceId": "AF-FYB",
+        "population": 87190
       },
       "id": "2808"
     },
@@ -58653,11 +58671,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bil Cheragh",
         "provinceName": "Faryab",
-        "id": "2809",
-        "provinceId": "AF-FYB"
+        "id": 2809,
+        "provinceId": "AF-FYB",
+        "population": 60020
       },
       "id": "2809"
     },
@@ -58963,11 +58987,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pashtun kot",
         "provinceName": "Faryab",
-        "id": "2803",
-        "provinceId": "AF-FYB"
+        "id": 2803,
+        "provinceId": "AF-FYB",
+        "population": 217098
       },
       "id": "2803"
     },
@@ -59029,11 +59059,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Maymana",
         "provinceName": "Faryab",
-        "id": "2801",
-        "provinceId": "AF-FYB"
+        "id": 2801,
+        "provinceId": "AF-FYB",
+        "population": 98284
       },
       "id": "2801"
     },
@@ -59147,11 +59183,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwaja Sabzposh",
         "provinceName": "Faryab",
-        "id": "2802",
-        "provinceId": "AF-FYB"
+        "id": 2802,
+        "provinceId": "AF-FYB",
+        "population": 58398
       },
       "id": "2802"
     },
@@ -59365,11 +59407,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shirin Tagab",
         "provinceName": "Faryab",
-        "id": "2804",
-        "provinceId": "AF-FYB"
+        "id": 2804,
+        "provinceId": "AF-FYB",
+        "population": 93679
       },
       "id": "2804"
     },
@@ -59563,11 +59611,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dawlat Abad",
         "provinceName": "Faryab",
-        "id": "2810",
-        "provinceId": "AF-FYB"
+        "id": 2810,
+        "provinceId": "AF-FYB",
+        "population": 56191
       },
       "id": "2810"
     },
@@ -59681,11 +59735,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qaram Qol",
         "provinceName": "Faryab",
-        "id": "2812",
-        "provinceId": "AF-FYB"
+        "id": 2812,
+        "provinceId": "AF-FYB",
+        "population": 22575
       },
       "id": "2812"
     },
@@ -59767,11 +59827,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qorghan",
         "provinceName": "Faryab",
-        "id": "2814",
-        "provinceId": "AF-FYB"
+        "id": 2814,
+        "provinceId": "AF-FYB",
+        "population": 54207
       },
       "id": "2814"
     },
@@ -59857,11 +59923,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khan-e-Chahar Bagh",
         "provinceName": "Faryab",
-        "id": "2813",
-        "provinceId": "AF-FYB"
+        "id": 2813,
+        "provinceId": "AF-FYB",
+        "population": 26630
       },
       "id": "2813"
     },
@@ -60395,11 +60467,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Andkhoy",
         "provinceName": "Faryab",
-        "id": "2811",
-        "provinceId": "AF-FYB"
+        "id": 2811,
+        "provinceId": "AF-FYB",
+        "population": 47857
       },
       "id": "2811"
     },
@@ -80729,11 +80807,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qaysar",
         "provinceName": "Faryab",
-        "id": "2806",
-        "provinceId": "AF-FYB"
+        "id": 2806,
+        "provinceId": "AF-FYB",
+        "population": 163838
       },
       "id": "2806"
     },
