@@ -16638,14 +16638,14 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Reg",
         "provinceName": "Kandahar",
         "id": 3309,
         "provinceId": "AF-KAN",
-        "population": 1431876
+        "population": 10274
       },
       "id": "3309"
     },
@@ -16875,11 +16875,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Spin Boldak",
         "provinceName": "Kandahar",
-        "id": "3311",
-        "provinceId": "AF-KAN"
+        "id": 3311,
+        "provinceId": "AF-KAN",
+        "population": 115714
       },
       "id": "3311"
     },
@@ -17093,11 +17099,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Panj wayi",
         "provinceName": "Kandahar",
-        "id": "3304",
-        "provinceId": "AF-KAN"
+        "id": 3304,
+        "provinceId": "AF-KAN",
+        "population": 100168
       },
       "id": "3304"
     },
@@ -17405,11 +17417,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Kandahar",
         "provinceName": "Kandahar",
-        "id": "3301",
-        "provinceId": "AF-KAN"
+        "id": 3301,
+        "provinceId": "AF-KAN",
+        "population": 651484
       },
       "id": "3301"
     },
@@ -17805,11 +17823,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Arghistan",
         "provinceName": "Kandahar",
-        "id": "3312",
-        "provinceId": "AF-KAN"
+        "id": 3312,
+        "provinceId": "AF-KAN",
+        "population": 39608
       },
       "id": "3312"
     },
@@ -18063,11 +18087,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Maruf",
         "provinceName": "Kandahar",
-        "id": "3316",
-        "provinceId": "AF-KAN"
+        "id": 3316,
+        "provinceId": "AF-KAN",
+        "population": 37985
       },
       "id": "3316"
     },
@@ -18443,11 +18473,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khakrez",
         "provinceName": "Kandahar",
-        "id": "3307",
-        "provinceId": "AF-KAN"
+        "id": 3307,
+        "provinceId": "AF-KAN",
+        "population": 26225
       },
       "id": "3307"
     },
@@ -18549,11 +18585,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Arghandab",
         "provinceName": "Kandahar",
-        "id": "3302",
-        "provinceId": "AF-KAN"
+        "id": 3302,
+        "provinceId": "AF-KAN",
+        "population": 71239
       },
       "id": "3302"
     },
@@ -18859,11 +18901,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Daman",
         "provinceName": "Kandahar",
-        "id": "3305",
-        "provinceId": "AF-KAN"
+        "id": 3305,
+        "provinceId": "AF-KAN",
+        "population": 39878
       },
       "id": "3305"
     },
@@ -19025,11 +19073,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nesh",
         "provinceName": "Kandahar",
-        "id": "3314",
-        "provinceId": "AF-KAN"
+        "id": 3314,
+        "provinceId": "AF-KAN",
+        "population": 15411
       },
       "id": "3314"
     },
@@ -19339,11 +19393,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shah Wali Kot",
         "provinceName": "Kandahar",
-        "id": "3306",
-        "provinceId": "AF-KAN"
+        "id": 3306,
+        "provinceId": "AF-KAN",
+        "population": 49882
       },
       "id": "3306"
     },
@@ -19505,11 +19565,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Miyanshin",
         "provinceName": "Kandahar",
-        "id": "3313",
-        "provinceId": "AF-KAN"
+        "id": 3313,
+        "provinceId": "AF-KAN",
+        "population": 17304
       },
       "id": "3313"
     },
@@ -46727,11 +46793,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shor Abak",
         "provinceName": "Kandahar",
-        "id": "3310",
-        "provinceId": "AF-KAN"
+        "id": 3310,
+        "provinceId": "AF-KAN",
+        "population": 13247
       },
       "id": "3310"
     },
