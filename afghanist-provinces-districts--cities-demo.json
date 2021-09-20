@@ -32421,11 +32421,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Hesarak",
         "provinceName": "Nangarhar",
-        "id": "610",
-        "provinceId": "AF-NAN"
+        "id": 610,
+        "provinceId": "AF-NAN",
+        "population": 35417
       },
       "id": "610"
     },
@@ -32527,11 +32533,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sherzad",
         "provinceName": "Nangarhar",
-        "id": "611",
-        "provinceId": "AF-NAN"
+        "id": 611,
+        "provinceId": "AF-NAN",
+        "population": 76242
       },
       "id": "611"
     },
@@ -32689,11 +32701,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khowgiani",
         "provinceName": "Nangarhar",
-        "id": "604",
-        "provinceId": "AF-NAN"
+        "id": 604,
+        "provinceId": "AF-NAN",
+        "population": 150363
       },
       "id": "604"
     },
@@ -32787,11 +32805,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Deh Bala",
         "provinceName": "Nangarhar",
-        "id": "613",
-        "provinceId": "AF-NAN"
+        "id": 613,
+        "provinceId": "AF-NAN",
+        "population": 46367
       },
       "id": "613"
     },
@@ -32865,11 +32889,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chaparhar",
         "provinceName": "Nangarhar",
-        "id": "605",
-        "provinceId": "AF-NAN"
+        "id": 605,
+        "provinceId": "AF-NAN",
+        "population": 69347
       },
       "id": "605"
     },
@@ -32963,11 +32993,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Surkh Rod",
         "provinceName": "Nangarhar",
-        "id": "603",
-        "provinceId": "AF-NAN"
+        "id": 603,
+        "provinceId": "AF-NAN",
+        "population": 138559
       },
       "id": "603"
     },
@@ -33005,11 +33041,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Jalalabad",
         "provinceName": "Nangarhar",
-        "id": "601",
-        "provinceId": "AF-NAN"
+        "id": 601,
+        "provinceId": "AF-NAN",
+        "population": 280685
       },
       "id": "601"
     },
@@ -33123,11 +33165,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Achin",
         "provinceName": "Nangarhar",
-        "id": "617",
-        "provinceId": "AF-NAN"
+        "id": 617,
+        "provinceId": "AF-NAN",
+        "population": 54942
       },
       "id": "617"
     },
@@ -33197,11 +33245,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kot",
         "provinceName": "Nangarhar",
-        "id": "614",
-        "provinceId": "AF-NAN"
+        "id": 614,
+        "provinceId": "AF-NAN",
+        "population": 59885
       },
       "id": "614"
     },
@@ -33287,11 +33341,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nazian",
         "provinceName": "Nangarhar",
-        "id": "621",
-        "provinceId": "AF-NAN"
+        "id": 621,
+        "provinceId": "AF-NAN",
+        "population": 16897
       },
       "id": "621"
     },
@@ -33345,11 +33405,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shinwar",
         "provinceName": "Nangarhar",
-        "id": "618",
-        "provinceId": "AF-NAN"
+        "id": 618,
+        "provinceId": "AF-NAN",
+        "population": 68942
       },
       "id": "618"
     },
@@ -33435,11 +33501,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Rodat",
         "provinceName": "Nangarhar",
-        "id": "606",
-        "provinceId": "AF-NAN"
+        "id": 606,
+        "provinceId": "AF-NAN",
+        "population": 79486
       },
       "id": "606"
     },
@@ -33529,11 +33601,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dur Baba",
         "provinceName": "Nangarhar",
-        "id": "622",
-        "provinceId": "AF-NAN"
+        "id": 622,
+        "provinceId": "AF-NAN",
+        "population": 26766
       },
       "id": "622"
     },
@@ -33643,11 +33721,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Muhmand Dara",
         "provinceName": "Nangarhar",
-        "id": "619",
-        "provinceId": "AF-NAN"
+        "id": 619,
+        "provinceId": "AF-NAN",
+        "population": 51638
       },
       "id": "619"
     },
@@ -38047,11 +38131,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Lal Pur",
         "provinceName": "Nangarhar",
-        "id": "620",
-        "provinceId": "AF-NAN"
+        "id": 620,
+        "provinceId": "AF-NAN",
+        "population": 23521
       },
       "id": "620"
     },
@@ -38177,11 +38267,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Goshta",
         "provinceName": "Nangarhar",
-        "id": "616",
-        "provinceId": "AF-NAN"
+        "id": 616,
+        "provinceId": "AF-NAN",
+        "population": 31362
       },
       "id": "616"
     },
@@ -38299,11 +38395,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Behsud",
         "provinceName": "Nangarhar",
-        "id": "602",
-        "provinceId": "AF-NAN"
+        "id": 602,
+        "provinceId": "AF-NAN",
+        "population": 130718
       },
       "id": "602"
     },
@@ -38393,11 +38495,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kama",
         "provinceName": "Nangarhar",
-        "id": "607",
-        "provinceId": "AF-NAN"
+        "id": 607,
+        "provinceId": "AF-NAN",
+        "population": 88407
       },
       "id": "607"
     },
@@ -38487,11 +38595,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kuz Kunar",
         "provinceName": "Nangarhar",
-        "id": "608",
-        "provinceId": "AF-NAN"
+        "id": 608,
+        "provinceId": "AF-NAN",
+        "population": 63264
       },
       "id": "608"
     },
@@ -42223,11 +42337,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pachier Agam",
         "provinceName": "Nangarhar",
-        "id": "612",
-        "provinceId": "AF-NAN"
+        "id": 612,
+        "provinceId": "AF-NAN",
+        "population": 48935
       },
       "id": "612"
     },
@@ -51719,11 +51839,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bati Kot",
         "provinceName": "Nangarhar",
-        "id": "615",
-        "provinceId": "AF-NAN"
+        "id": 615,
+        "provinceId": "AF-NAN",
+        "population": 87055
       },
       "id": "615"
     },
