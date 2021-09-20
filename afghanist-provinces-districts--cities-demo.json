@@ -22803,11 +22803,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ajrestan",
         "provinceName": "Ghazni",
-        "id": "1116",
-        "provinceId": "AF-GHA"
+        "id": 1116,
+        "provinceId": "AF-GHA",
+        "population": 33119
       },
       "id": "1116"
     },
@@ -23037,11 +23043,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Malestan",
         "provinceName": "Ghazni",
-        "id": "1117",
-        "provinceId": "AF-GHA"
+        "id": 1117,
+        "provinceId": "AF-GHA",
+        "population": 94356
       },
       "id": "1117"
     },
@@ -23199,11 +23211,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gelan",
         "provinceName": "Ghazni",
-        "id": "1118",
-        "provinceId": "AF-GHA"
+        "id": 1118,
+        "provinceId": "AF-GHA",
+        "population": 66508
       },
       "id": "1118"
     },
@@ -23317,11 +23335,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Muqur",
         "provinceName": "Ghazni",
-        "id": "1114",
-        "provinceId": "AF-GHA"
+        "id": 1114,
+        "provinceId": "AF-GHA",
+        "population": 57857
       },
       "id": "1114"
     },
@@ -23499,11 +23523,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jaghuri",
         "provinceName": "Ghazni",
-        "id": "1113",
-        "provinceId": "AF-GHA"
+        "id": 1113,
+        "provinceId": "AF-GHA",
+        "population": 203040
       },
       "id": "1113"
     },
@@ -23609,11 +23639,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ab Band",
         "provinceName": "Ghazni",
-        "id": "1115",
-        "provinceId": "AF-GHA"
+        "id": 1115,
+        "provinceId": "AF-GHA",
+        "population": 31632
       },
       "id": "1115"
     },
@@ -23731,11 +23767,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Giro",
         "provinceName": "Ghazni",
-        "id": "1111",
-        "provinceId": "AF-GHA"
+        "id": 1111,
+        "provinceId": "AF-GHA",
+        "population": 42041
       },
       "id": "1111"
     },
@@ -23885,11 +23927,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qarabagh",
         "provinceName": "Ghazni",
-        "id": "1110",
-        "provinceId": "AF-GHA"
+        "id": 1110,
+        "provinceId": "AF-GHA",
+        "population": 164243
       },
       "id": "1110"
     },
@@ -23983,11 +24031,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Andar",
         "provinceName": "Ghazni",
-        "id": "1105",
-        "provinceId": "AF-GHA"
+        "id": 1105,
+        "provinceId": "AF-GHA",
+        "population": 143426
       },
       "id": "1105"
     },
@@ -24061,11 +24115,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Waghaz",
         "provinceName": "Ghazni",
-        "id": "1104",
-        "provinceId": "AF-GHA"
+        "id": 1104,
+        "provinceId": "AF-GHA",
+        "population": 44339
       },
       "id": "1104"
     },
@@ -24127,11 +24187,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Wali Muhammad-e- Shahid",
         "provinceName": "Ghazni",
-        "id": "1103",
-        "provinceId": "AF-GHA"
+        "id": 1103,
+        "provinceId": "AF-GHA",
+        "population": 23115
       },
       "id": "1103"
     },
@@ -24253,11 +24319,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jaghatu",
         "provinceName": "Ghazni",
-        "id": "1109",
-        "provinceId": "AF-GHA"
+        "id": 1109,
+        "provinceId": "AF-GHA",
+        "population": 36499
       },
       "id": "1109"
     },
@@ -24347,11 +24419,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Rashidan",
         "provinceName": "Ghazni",
-        "id": "1108",
-        "provinceId": "AF-GHA"
+        "id": 1108,
+        "provinceId": "AF-GHA",
+        "population": 20683
       },
       "id": "1108"
     },
@@ -24457,11 +24535,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Deh Yak",
         "provinceName": "Ghazni",
-        "id": "1106",
-        "provinceId": "AF-GHA"
+        "id": 1106,
+        "provinceId": "AF-GHA",
+        "population": 56234
       },
       "id": "1106"
     },
@@ -24551,11 +24635,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Ghazni",
         "provinceName": "Ghazni",
-        "id": "1101",
-        "provinceId": "AF-GHA"
+        "id": 1101,
+        "provinceId": "AF-GHA",
+        "population": 190424
       },
       "id": "1101"
     },
@@ -24665,11 +24755,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zana Khan",
         "provinceName": "Ghazni",
-        "id": "1107",
-        "provinceId": "AF-GHA"
+        "id": 1107,
+        "provinceId": "AF-GHA",
+        "population": 14464
       },
       "id": "1107"
     },
@@ -24759,11 +24855,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwaja Umari",
         "provinceName": "Ghazni",
-        "id": "1102",
-        "provinceId": "AF-GHA"
+        "id": 1102,
+        "provinceId": "AF-GHA",
+        "population": 21764
       },
       "id": "1102"
     },
@@ -25339,11 +25441,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nawur",
         "provinceName": "Ghazni",
-        "id": "1112",
-        "provinceId": "AF-GHA"
+        "id": 1112,
+        "provinceId": "AF-GHA",
+        "population": 108819
       },
       "id": "1112"
     },
