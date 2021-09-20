@@ -17299,11 +17299,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Maywand",
         "provinceName": "Kandahar",
-        "id": "3308",
-        "provinceId": "AF-KAN"
+        "id": 3308,
+        "provinceId": "AF-KAN",
+        "population": 67454
       },
       "id": "3308"
     },
@@ -17545,11 +17551,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zheray",
         "provinceName": "Kandahar",
-        "id": "3303",
-        "provinceId": "AF-KAN"
+        "id": 3303,
+        "provinceId": "AF-KAN",
+        "population": 98681
       },
       "id": "3303"
     },
@@ -18271,11 +18283,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ghorak",
         "provinceName": "Kandahar",
-        "id": "3315",
-        "provinceId": "AF-KAN"
+        "id": 3315,
+        "provinceId": "AF-KAN",
+        "population": 11084
       },
       "id": "3315"
     },
