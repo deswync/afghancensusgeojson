@@ -59987,11 +59987,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Darz Ab",
         "provinceName": "Jawzjan",
-        "id": "2711",
-        "provinceId": "AF-JOW"
+        "id": 2711,
+        "provinceId": "AF-JOW",
+        "population": 56623
       },
       "id": "2711"
     },
@@ -60101,11 +60107,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qush Tepa",
         "provinceName": "Jawzjan",
-        "id": "2704",
-        "provinceId": "AF-JOW"
+        "id": 2704,
+        "provinceId": "AF-JOW",
+        "population": 27036
       },
       "id": "2704"
     },
@@ -60291,11 +60303,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Shiberghan",
         "provinceName": "Jawzjan",
-        "id": "2701",
-        "provinceId": "AF-JOW"
+        "id": 2701,
+        "provinceId": "AF-JOW",
+        "population": 196712
       },
       "id": "2701"
     },
@@ -60515,11 +60533,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwaja Du Koh",
         "provinceName": "Jawzjan",
-        "id": "2703",
-        "provinceId": "AF-JOW"
+        "id": 2703,
+        "provinceId": "AF-JOW",
+        "population": 30956
       },
       "id": "2703"
     },
@@ -60613,11 +60637,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khanaqa",
         "provinceName": "Jawzjan",
-        "id": "2706",
-        "provinceId": "AF-JOW"
+        "id": 2706,
+        "provinceId": "AF-JOW",
+        "population": 26766
       },
       "id": "2706"
     },
@@ -60763,11 +60793,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Fayz Abad",
         "provinceName": "Jawzjan",
-        "id": "2705",
-        "provinceId": "AF-JOW"
+        "id": 2705,
+        "provinceId": "AF-JOW",
+        "population": 47854
       },
       "id": "2705"
     },
@@ -60865,11 +60901,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mardyan",
         "provinceName": "Jawzjan",
-        "id": "2708",
-        "provinceId": "AF-JOW"
+        "id": 2708,
+        "provinceId": "AF-JOW",
+        "population": 44339
       },
       "id": "2708"
     },
@@ -60927,11 +60969,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Aqcha",
         "provinceName": "Jawzjan",
-        "id": "2707",
-        "provinceId": "AF-JOW"
+        "id": 2707,
+        "provinceId": "AF-JOW",
+        "population": 88975
       },
       "id": "2707"
     },
@@ -61037,11 +61085,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mingajik",
         "provinceName": "Jawzjan",
-        "id": "2702",
-        "provinceId": "AF-JOW"
+        "id": 2702,
+        "provinceId": "AF-JOW",
+        "population": 49340
       },
       "id": "2702"
     },
@@ -61163,11 +61217,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qarqin",
         "provinceName": "Jawzjan",
-        "id": "2709",
-        "provinceId": "AF-JOW"
+        "id": 2709,
+        "provinceId": "AF-JOW",
+        "population": 28794
       },
       "id": "2709"
     },
@@ -61257,11 +61317,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khamyab",
         "provinceName": "Jawzjan",
-        "id": "2710",
-        "provinceId": "AF-JOW"
+        "id": 2710,
+        "provinceId": "AF-JOW",
+        "population": 16086
       },
       "id": "2710"
     },
