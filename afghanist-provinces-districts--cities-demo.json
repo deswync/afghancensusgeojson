@@ -44109,11 +44109,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Deh shu",
         "provinceName": "Hilmand",
-        "id": "3213",
-        "provinceId": "AF-HEL"
+        "id": 3213,
+        "provinceId": "AF-HEL",
+        "population": 30825
       },
       "id": "3213"
     },
@@ -44363,11 +44369,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Reg(khan Neshin)",
         "provinceName": "Hilmand",
-        "id": "3212",
-        "provinceId": "AF-HEL"
+        "id": 3212,
+        "provinceId": "AF-HEL",
+        "population": 26809
       },
       "id": "3212"
     },
@@ -44732,14 +44744,14 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Garm Ser",
         "provinceName": "Hilmand",
         "id": 3209,
         "provinceId": "AF-HEL",
-        "population": 1472162
+        "population": 121319
       },
       "id": "3209"
     },
@@ -44913,11 +44925,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nad-e-Ali",
         "provinceName": "Hilmand",
-        "id": "3203",
-        "provinceId": "AF-HEL"
+        "id": 3203,
+        "provinceId": "AF-HEL",
+        "population": 190195
       },
       "id": "3203"
     },
@@ -45023,11 +45041,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nawa-e-Barak Zaiy",
         "provinceName": "Hilmand",
-        "id": "3204",
-        "provinceId": "AF-HEL"
+        "id": 3204,
+        "provinceId": "AF-HEL",
+        "population": 113203
       },
       "id": "3204"
     },
@@ -45193,11 +45217,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Lashkar Gah",
         "provinceName": "Hilmand",
-        "id": "3201",
-        "provinceId": "AF-HEL"
+        "id": 3201,
+        "provinceId": "AF-HEL",
+        "population": 198463
       },
       "id": "3201"
     },
@@ -45419,11 +45449,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Wa Sher",
         "provinceName": "Hilmand",
-        "id": "3208",
-        "provinceId": "AF-HEL"
+        "id": 3208,
+        "provinceId": "AF-HEL",
+        "population": 29450
       },
       "id": "3208"
     },
@@ -45569,11 +45605,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nahr-e-Saraj",
         "provinceName": "Hilmand",
-        "id": "3202",
-        "provinceId": "AF-HEL"
+        "id": 3202,
+        "provinceId": "AF-HEL",
+        "population": 177947
       },
       "id": "3202"
     },
@@ -45919,11 +45961,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Naw Zad",
         "provinceName": "Hilmand",
-        "id": "3207",
-        "provinceId": "AF-HEL"
+        "id": 3207,
+        "provinceId": "AF-HEL",
+        "population": 99533
       },
       "id": "3207"
     },
@@ -46101,11 +46149,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Musa Qaleh",
         "provinceName": "Hilmand",
-        "id": "3206",
-        "provinceId": "AF-HEL"
+        "id": 3206,
+        "provinceId": "AF-HEL",
+        "population": 123876
       },
       "id": "3206"
     },
@@ -46219,11 +46273,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sangin",
         "provinceName": "Hilmand",
-        "id": "3205",
-        "provinceId": "AF-HEL"
+        "id": 3205,
+        "provinceId": "AF-HEL",
+        "population": 78704
       },
       "id": "3205"
     },
@@ -46445,11 +46505,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kajaki",
         "provinceName": "Hilmand",
-        "id": "3210",
-        "provinceId": "AF-HEL"
+        "id": 3210,
+        "provinceId": "AF-HEL",
+        "population": 118868
       },
       "id": "3210"
     },
@@ -51201,11 +51267,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Baghran",
         "provinceName": "Hilmand",
-        "id": "3211",
-        "provinceId": "AF-HEL"
+        "id": 3211,
+        "provinceId": "AF-HEL",
+        "population": 112617
       },
       "id": "3211"
     },
