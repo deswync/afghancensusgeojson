@@ -35815,11 +35815,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Surkhe Parsa",
         "provinceName": "Parwan",
-        "id": "310",
-        "provinceId": "AF-PAR"
+        "id": 310,
+        "provinceId": "AF-PAR",
+        "population": 47042
       },
       "id": "310"
     },
@@ -37161,11 +37167,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Chaharikar",
         "provinceName": "Parwan",
-        "id": "301",
-        "provinceId": "AF-PAR"
+        "id": 301,
+        "provinceId": "AF-PAR",
+        "population": 206180
       },
       "id": "301"
     },
@@ -37283,11 +37295,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Koh-e- Safi",
         "provinceName": "Parwan",
-        "id": "308",
-        "provinceId": "AF-PAR"
+        "id": 308,
+        "provinceId": "AF-PAR",
+        "population": 35688
       },
       "id": "308"
     },
@@ -37397,11 +37415,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bagram",
         "provinceName": "Parwan",
-        "id": "304",
-        "provinceId": "AF-PAR"
+        "id": 304,
+        "provinceId": "AF-PAR",
+        "population": 119228
       },
       "id": "304"
     },
@@ -37451,11 +37475,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sayd Khel",
         "provinceName": "Parwan",
-        "id": "305",
-        "provinceId": "AF-PAR"
+        "id": 305,
+        "provinceId": "AF-PAR",
+        "population": 52449
       },
       "id": "305"
     },
@@ -37533,11 +37563,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jabalussaraj",
         "provinceName": "Parwan",
-        "id": "302",
-        "provinceId": "AF-PAR"
+        "id": 302,
+        "provinceId": "AF-PAR",
+        "population": 73624
       },
       "id": "302"
     },
@@ -47367,11 +47403,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Salang",
         "provinceName": "Parwan",
-        "id": "306",
-        "provinceId": "AF-PAR"
+        "id": 306,
+        "provinceId": "AF-PAR",
+        "population": 29875
       },
       "id": "306"
     },
@@ -47505,11 +47547,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shinwari",
         "provinceName": "Parwan",
-        "id": "303",
-        "provinceId": "AF-PAR"
+        "id": 303,
+        "provinceId": "AF-PAR",
+        "population": 47313
       },
       "id": "303"
     },
@@ -47655,11 +47703,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Syah Gerd",
         "provinceName": "Parwan",
-        "id": "307",
-        "provinceId": "AF-PAR"
+        "id": 307,
+        "provinceId": "AF-PAR",
+        "population": 111253
       },
       "id": "307"
     },
@@ -47773,11 +47827,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shekh  Ali",
         "provinceName": "Parwan",
-        "id": "309",
-        "provinceId": "AF-PAR"
+        "id": 309,
+        "provinceId": "AF-PAR",
+        "population": 28388
       },
       "id": "309"
     },
