@@ -40847,11 +40847,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nurgal",
         "provinceName": "Kunar",
-        "id": "1314",
-        "provinceId": "AF-KNR"
+        "id": 1314,
+        "provinceId": "AF-KNR",
+        "population": 36363
       },
       "id": "1314"
     },
@@ -40957,11 +40963,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khas Kunar",
         "provinceName": "Kunar",
-        "id": "1309",
-        "provinceId": "AF-KNR"
+        "id": 1309,
+        "provinceId": "AF-KNR",
+        "population": 40284
       },
       "id": "1309"
     },
@@ -41039,11 +41051,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sarkani",
         "provinceName": "Kunar",
-        "id": "1304",
-        "provinceId": "AF-KNR"
+        "id": 1304,
+        "provinceId": "AF-KNR",
+        "population": 31362
       },
       "id": "1304"
     },
@@ -41121,11 +41139,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chawkay",
         "provinceName": "Kunar",
-        "id": "1308",
-        "provinceId": "AF-KNR"
+        "id": 1308,
+        "provinceId": "AF-KNR",
+        "population": 41095
       },
       "id": "1308"
     },
@@ -41207,11 +41231,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Narang",
         "provinceName": "Kunar",
-        "id": "1303",
-        "provinceId": "AF-KNR"
+        "id": 1303,
+        "provinceId": "AF-KNR",
+        "population": 34741
       },
       "id": "1303"
     },
@@ -41277,11 +41307,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Marawara",
         "provinceName": "Kunar",
-        "id": "1305",
-        "provinceId": "AF-KNR"
+        "id": 1305,
+        "provinceId": "AF-KNR",
+        "population": 23521
       },
       "id": "1305"
     },
@@ -41391,11 +41427,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chapa Dara",
         "provinceName": "Kunar",
-        "id": "1313",
-        "provinceId": "AF-KNR"
+        "id": 1313,
+        "provinceId": "AF-KNR",
+        "population": 35687
       },
       "id": "1313"
     },
@@ -41465,11 +41507,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Asad Abad",
         "provinceName": "Kunar",
-        "id": "1301",
-        "provinceId": "AF-KNR"
+        "id": 1301,
+        "provinceId": "AF-KNR",
+        "population": 39150
       },
       "id": "1301"
     },
@@ -41579,11 +41627,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dara-e-Pech",
         "provinceName": "Kunar",
-        "id": "1307",
-        "provinceId": "AF-KNR"
+        "id": 1307,
+        "provinceId": "AF-KNR",
+        "population": 62859
       },
       "id": "1307"
     },
@@ -41665,11 +41719,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Wata Pur",
         "provinceName": "Kunar",
-        "id": "1302",
-        "provinceId": "AF-KNR"
+        "id": 1302,
+        "provinceId": "AF-KNR",
+        "population": 31497
       },
       "id": "1302"
     },
@@ -41775,11 +41835,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shigal wa shel tan",
         "provinceName": "Kunar",
-        "id": "1306",
-        "provinceId": "AF-KNR"
+        "id": 1306,
+        "provinceId": "AF-KNR",
+        "population": 13822
       },
       "id": "1306"
     },
@@ -41845,11 +41911,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dangam",
         "provinceName": "Kunar",
-        "id": "1310",
-        "provinceId": "AF-KNR"
+        "id": 1310,
+        "provinceId": "AF-KNR",
+        "population": 19466
       },
       "id": "1310"
     },
@@ -41963,11 +42035,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nari",
         "provinceName": "Kunar",
-        "id": "1315",
-        "provinceId": "AF-KNR"
+        "id": 1315,
+        "provinceId": "AF-KNR",
+        "population": 31767
       },
       "id": "1315"
     },
@@ -42029,11 +42107,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bar Kunar",
         "provinceName": "Kunar",
-        "id": "1311",
-        "provinceId": "AF-KNR"
+        "id": 1311,
+        "provinceId": "AF-KNR",
+        "population": 25279
       },
       "id": "1311"
     },
@@ -42143,11 +42227,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ghazi Abad",
         "provinceName": "Kunar",
-        "id": "1312",
-        "provinceId": "AF-KNR"
+        "id": 1312,
+        "provinceId": "AF-KNR",
+        "population": 21493
       },
       "id": "1312"
     },
