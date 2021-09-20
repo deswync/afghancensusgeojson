@@ -63437,11 +63437,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shor Tepa",
         "provinceName": "Balkh",
-        "id": "1803",
-        "provinceId": "AF-BAL"
+        "id": 1803,
+        "provinceId": "AF-BAL",
+        "population": 45556
       },
       "id": "1803"
     },
@@ -63593,11 +63599,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kaldar",
         "provinceName": "Balkh",
-        "id": "1810",
-        "provinceId": "AF-BAL"
+        "id": 1810,
+        "provinceId": "AF-BAL",
+        "population": 22980
       },
       "id": "1810"
     },
@@ -63723,11 +63735,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dawlat Abad",
         "provinceName": "Balkh",
-        "id": "1804",
-        "provinceId": "AF-BAL"
+        "id": 1804,
+        "provinceId": "AF-BAL",
+        "population": 121247
       },
       "id": "1804"
     },
@@ -63929,11 +63947,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khulm",
         "provinceName": "Balkh",
-        "id": "1809",
-        "provinceId": "AF-BAL"
+        "id": 1809,
+        "provinceId": "AF-BAL",
+        "population": 84866
       },
       "id": "1809"
     },
@@ -64035,11 +64059,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Marmul",
         "provinceName": "Balkh",
-        "id": "1808",
-        "provinceId": "AF-BAL"
+        "id": 1808,
+        "provinceId": "AF-BAL",
+        "population": 13112
       },
       "id": "1808"
     },
@@ -64185,11 +64215,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chahar Kent",
         "provinceName": "Balkh",
-        "id": "1807",
-        "provinceId": "AF-BAL"
+        "id": 1807,
+        "provinceId": "AF-BAL",
+        "population": 51098
       },
       "id": "1807"
     },
@@ -64263,11 +64299,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Deh Dadi",
         "provinceName": "Balkh",
-        "id": "1806",
-        "provinceId": "AF-BAL"
+        "id": 1806,
+        "provinceId": "AF-BAL",
+        "population": 77593
       },
       "id": "1806"
     },
@@ -64357,11 +64399,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Balkh",
         "provinceName": "Balkh",
-        "id": "1805",
-        "provinceId": "AF-BAL"
+        "id": 1805,
+        "provinceId": "AF-BAL",
+        "population": 138594
       },
       "id": "1805"
     },
@@ -64475,11 +64523,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chahar Bolak",
         "provinceName": "Balkh",
-        "id": "1812",
-        "provinceId": "AF-BAL"
+        "id": 1812,
+        "provinceId": "AF-BAL",
+        "population": 93138
       },
       "id": "1812"
     },
@@ -64657,11 +64711,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chemtal",
         "provinceName": "Balkh",
-        "id": "1813",
-        "provinceId": "AF-BAL"
+        "id": 1813,
+        "provinceId": "AF-BAL",
+        "population": 105441
       },
       "id": "1813"
     },
@@ -64847,11 +64907,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sholgareh",
         "provinceName": "Balkh",
-        "id": "1814",
-        "provinceId": "AF-BAL"
+        "id": 1814,
+        "provinceId": "AF-BAL",
+        "population": 131607
       },
       "id": "1814"
     },
@@ -65053,11 +65119,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kishindeh",
         "provinceName": "Balkh",
-        "id": "1815",
-        "provinceId": "AF-BAL"
+        "id": 1815,
+        "provinceId": "AF-BAL",
+        "population": 55964
       },
       "id": "1815"
     },
@@ -65199,11 +65271,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zari",
         "provinceName": "Balkh",
-        "id": "1816",
-        "provinceId": "AF-BAL"
+        "id": 1816,
+        "provinceId": "AF-BAL",
+        "population": 50422
       },
       "id": "1816"
     },
@@ -80285,11 +80363,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Mazar-e-Sharif",
         "provinceName": "Balkh",
-        "id": "1801",
-        "provinceId": "AF-BAL"
+        "id": 1801,
+        "provinceId": "AF-BAL",
+        "population": 500207
       },
       "id": "1801"
     },
@@ -80453,11 +80537,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nahr-e- Shahi",
         "provinceName": "Balkh",
-        "id": "1802",
-        "provinceId": "AF-BAL"
+        "id": 1802,
+        "provinceId": "AF-BAL",
+        "population": 51639
       },
       "id": "1802"
     }
