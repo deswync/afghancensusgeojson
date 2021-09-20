@@ -35917,11 +35917,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Paghman",
         "provinceName": "Kabul",
-        "id": "104",
-        "provinceId": "AF-JOW"
+        "id": 104,
+        "provinceId": "AF-JOW",
+        "population": 141093
       },
       "id": "104"
     },
@@ -36423,11 +36429,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khak-e- Jabbar",
         "provinceName": "Kabul",
-        "id": "112",
-        "provinceId": "AF-JOW"
+        "id": 112,
+        "provinceId": "AF-JOW",
+        "population": 16491
       },
       "id": "112"
     },
@@ -36540,7 +36552,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff0000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Deh Sabz",
@@ -36605,11 +36617,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kalakan",
         "provinceName": "Kabul",
-        "id": "109",
-        "provinceId": "AF-JOW"
+        "id": 109,
+        "provinceId": "AF-JOW",
+        "population": 34876
       },
       "id": "109"
     },
@@ -36655,11 +36673,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mir Bacha Kot",
         "provinceName": "Kabul",
-        "id": "110",
-        "provinceId": "AF-JOW"
+        "id": 110,
+        "provinceId": "AF-JOW",
+        "population": 60155
       },
       "id": "110"
     },
@@ -36757,11 +36781,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shakardara",
         "provinceName": "Kabul",
-        "id": "103",
-        "provinceId": "AF-JOW"
+        "id": 103,
+        "provinceId": "AF-JOW",
+        "population": 94626
       },
       "id": "103"
     },
@@ -36811,11 +36841,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Guldara",
         "provinceName": "Kabul",
-        "id": "111",
-        "provinceId": "AF-JOW"
+        "id": 111,
+        "provinceId": "AF-JOW",
+        "population": 26360
       },
       "id": "111"
     },
@@ -36873,11 +36909,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Farza",
         "provinceName": "Kabul",
-        "id": "115",
-        "provinceId": "AF-JOW"
+        "id": 115,
+        "provinceId": "AF-JOW",
+        "population": 24738
       },
       "id": "115"
     },
@@ -36927,11 +36969,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Estalef",
         "provinceName": "Kabul",
-        "id": "114",
-        "provinceId": "AF-JOW"
+        "id": 114,
+        "provinceId": "AF-JOW",
+        "population": 38662
       },
       "id": "114"
     },
@@ -37009,11 +37057,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qarabagh",
         "provinceName": "Kabul",
-        "id": "108",
-        "provinceId": "AF-JOW"
+        "id": 108,
+        "provinceId": "AF-JOW",
+        "population": 87867
       },
       "id": "108"
     },
