@@ -21789,11 +21789,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mando Zayi",
         "provinceName": "Khost",
-        "id": "2605",
-        "provinceId": "AF-KHO"
+        "id": 2605,
+        "provinceId": "AF-KHO",
+        "population": 64887
       },
       "id": "2605"
     },
@@ -27845,11 +27851,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Spera",
         "provinceName": "Khost",
-        "id": "2611",
-        "provinceId": "AF-KHO"
+        "id": 2611,
+        "provinceId": "AF-KHO",
+        "population": 27982
       },
       "id": "2611"
     },
@@ -27947,11 +27959,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tani",
         "provinceName": "Khost",
-        "id": "2606",
-        "provinceId": "AF-KHO"
+        "id": 2606,
+        "provinceId": "AF-KHO",
+        "population": 68536
       },
       "id": "2606"
     },
@@ -28009,11 +28027,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shamal (Shamul)",
         "provinceName": "Khost",
-        "id": "2610",
-        "provinceId": "AF-KHO"
+        "id": 2610,
+        "provinceId": "AF-KHO",
+        "population": 15680
       },
       "id": "2610"
     },
@@ -28087,11 +28111,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gurbuz",
         "provinceName": "Khost",
-        "id": "2607",
-        "provinceId": "AF-KHO"
+        "id": 2607,
+        "provinceId": "AF-KHO",
+        "population": 30146
       },
       "id": "2607"
     },
@@ -28221,11 +28251,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Khost(Matun)",
         "provinceName": "Khost",
-        "id": "2601",
-        "provinceId": "AF-KHO"
+        "id": 2601,
+        "provinceId": "AF-KHO",
+        "population": 158921
       },
       "id": "2601"
     },
@@ -28307,11 +28343,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nadir Shah Kot",
         "provinceName": "Khost",
-        "id": "2604",
-        "provinceId": "AF-KHO"
+        "id": 2604,
+        "provinceId": "AF-KHO",
+        "population": 36634
       },
       "id": "2604"
     },
@@ -28385,11 +28427,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bak",
         "provinceName": "Khost",
-        "id": "2612",
-        "provinceId": "AF-KHO"
+        "id": 2612,
+        "provinceId": "AF-KHO",
+        "population": 25413
       },
       "id": "2612"
     },
@@ -28471,11 +28519,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jaji Maydan",
         "provinceName": "Khost",
-        "id": "2613",
-        "provinceId": "AF-KHO"
+        "id": 2613,
+        "provinceId": "AF-KHO",
+        "population": 27711
       },
       "id": "2613"
     },
@@ -28589,11 +28643,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sabri",
         "provinceName": "Khost",
-        "id": "2602",
-        "provinceId": "AF-KHO"
+        "id": 2602,
+        "provinceId": "AF-KHO",
+        "population": 81514
       },
       "id": "2602"
     },
@@ -28707,11 +28767,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Musa Khel",
         "provinceName": "Khost",
-        "id": "2603",
-        "provinceId": "AF-KHO"
+        "id": 2603,
+        "provinceId": "AF-KHO",
+        "population": 47178
       },
       "id": "2603"
     },
@@ -28781,11 +28847,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qalandar",
         "provinceName": "Khost",
-        "id": "2609",
-        "provinceId": "AF-KHO"
+        "id": 2609,
+        "provinceId": "AF-KHO",
+        "population": 11760
       },
       "id": "2609"
     },
@@ -46985,11 +47057,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tere Zayi",
         "provinceName": "Khost",
-        "id": "2608",
-        "provinceId": "AF-KHO"
+        "id": 2608,
+        "provinceId": "AF-KHO",
+        "population": 51368
       },
       "id": "2608"
     },
