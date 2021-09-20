@@ -35203,11 +35203,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Waras",
         "provinceName": "Bamyan",
-        "id": "1007",
-        "provinceId": "AF-BAM"
+        "id": 1007,
+        "provinceId": "AF-BAM",
+        "population": 125447
       },
       "id": "1007"
     },
@@ -35469,11 +35475,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Panjab",
         "provinceName": "Bamyan",
-        "id": "1004",
-        "provinceId": "AF-BAM"
+        "id": 1004,
+        "provinceId": "AF-BAM",
+        "population": 78404
       },
       "id": "1004"
     },
@@ -35651,11 +35663,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Bamyan",
         "provinceName": "Bamyan",
-        "id": "1001",
-        "provinceId": "AF-BAM"
+        "id": 1001,
+        "provinceId": "AF-BAM",
+        "population": 96610
       },
       "id": "1001"
     },
@@ -35829,11 +35847,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sayghan",
         "provinceName": "Bamyan",
-        "id": "1002",
-        "provinceId": "AF-BAM"
+        "id": 1002,
+        "provinceId": "AF-BAM",
+        "population": 27576
       },
       "id": "1002"
     },
@@ -48313,11 +48337,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shibar",
         "provinceName": "Bamyan",
-        "id": "1005",
-        "provinceId": "AF-BAM"
+        "id": 1005,
+        "provinceId": "AF-BAM",
+        "population": 33930
       },
       "id": "1005"
     },
@@ -48491,11 +48521,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kahmard",
         "provinceName": "Bamyan",
-        "id": "1006",
-        "provinceId": "AF-BAM"
+        "id": 1006,
+        "provinceId": "AF-BAM",
+        "population": 41771
       },
       "id": "1006"
     },
@@ -48821,11 +48857,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Yakawlang",
         "provinceName": "Bamyan",
-        "id": "1003",
-        "provinceId": "AF-BAM"
+        "id": 1003,
+        "provinceId": "AF-BAM",
+        "population": 70023
       },
       "id": "1003"
     },
