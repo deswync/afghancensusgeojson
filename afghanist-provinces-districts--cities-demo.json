@@ -40027,11 +40027,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Onaba(Anawa)",
         "provinceName": "Panjsher",
-        "id": "806",
-        "provinceId": "AF-PAN"
+        "id": 806,
+        "provinceId": "AF-PAN",
+        "population": 20682
       },
       "id": "806"
     },
@@ -40109,11 +40115,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Rukha",
         "provinceName": "Panjsher",
-        "id": "803",
-        "provinceId": "AF-PAN"
+        "id": 803,
+        "provinceId": "AF-PAN",
+        "population": 26360
       },
       "id": "803"
     },
@@ -40239,11 +40251,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dara",
         "provinceName": "Panjsher",
-        "id": "804",
-        "provinceId": "AF-PAN"
+        "id": 804,
+        "provinceId": "AF-PAN",
+        "population": 15951
       },
       "id": "804"
     },
@@ -45813,11 +45831,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Bazarak",
         "provinceName": "Panjsher",
-        "id": "801",
-        "provinceId": "AF-PAN"
+        "id": 801,
+        "provinceId": "AF-PAN",
+        "population": 21629
       },
       "id": "801"
     },
@@ -45895,11 +45919,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shutul",
         "provinceName": "Panjsher",
-        "id": "802",
-        "provinceId": "AF-PAN"
+        "id": 802,
+        "provinceId": "AF-PAN",
+        "population": 12572
       },
       "id": "802"
     },
@@ -47443,11 +47473,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Parian",
         "provinceName": "Panjsher",
-        "id": "807",
-        "provinceId": "AF-PAN"
+        "id": 807,
+        "provinceId": "AF-PAN",
+        "population": 17033
       },
       "id": "807"
     },
@@ -47549,11 +47585,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khenj (Hes-e- Awal)",
         "provinceName": "Panjsher",
-        "id": "805",
-        "provinceId": "AF-PAN"
+        "id": 805,
+        "provinceId": "AF-PAN",
+        "population": 45961
       },
       "id": "805"
     },
