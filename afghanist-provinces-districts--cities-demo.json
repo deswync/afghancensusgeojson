@@ -28871,11 +28871,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dand wa Patan",
         "provinceName": "Paktya",
-        "id": "1211",
-        "provinceId": "AF-PIA"
+        "id": 1211,
+        "provinceId": "AF-PIA",
+        "population": 30551
       },
       "id": "1211"
     },
@@ -28969,11 +28975,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chamkani",
         "provinceName": "Paktya",
-        "id": "1210",
-        "provinceId": "AF-PIA"
+        "id": 1210,
+        "provinceId": "AF-PIA",
+        "population": 57451
       },
       "id": "1210"
     },
@@ -29051,11 +29063,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jani Khel",
         "provinceName": "Paktya",
-        "id": "1209",
-        "provinceId": "AF-PIA"
+        "id": 1209,
+        "provinceId": "AF-PIA",
+        "population": 40149
       },
       "id": "1209"
     },
@@ -29197,11 +29215,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ali Khel (Jaji)",
         "provinceName": "Paktya",
-        "id": "1208",
-        "provinceId": "AF-PIA"
+        "id": 1208,
+        "provinceId": "AF-PIA",
+        "population": 72456
       },
       "id": "1208"
     },
@@ -29315,11 +29339,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Lija Ahmad Khel",
         "provinceName": "Paktya",
-        "id": "1207",
-        "provinceId": "AF-PIA"
+        "id": 1207,
+        "provinceId": "AF-PIA",
+        "population": 26225
       },
       "id": "1207"
     },
@@ -29437,11 +29467,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ahmadaba",
         "provinceName": "Paktya",
-        "id": "1203",
-        "provinceId": "AF-PIA"
+        "id": 1203,
+        "provinceId": "AF-PIA",
+        "population": 32037
       },
       "id": "1203"
     },
@@ -29547,11 +29583,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sayed Karam",
         "provinceName": "Paktya",
-        "id": "1202",
-        "provinceId": "AF-PIA"
+        "id": 1202,
+        "provinceId": "AF-PIA",
+        "population": 64075
       },
       "id": "1202"
     },
@@ -29657,11 +29699,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zadran",
         "provinceName": "Paktya",
-        "id": "1206",
-        "provinceId": "AF-PIA"
+        "id": 1206,
+        "provinceId": "AF-PIA",
+        "population": 24960
       },
       "id": "1206"
     },
@@ -29723,11 +29771,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shawak",
         "provinceName": "Paktya",
-        "id": "1205",
-        "provinceId": "AF-PIA"
+        "id": 1205,
+        "provinceId": "AF-PIA",
+        "population": 6353
       },
       "id": "1205"
     },
@@ -29889,11 +29943,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zurmat",
         "provinceName": "Paktya",
-        "id": "1204",
-        "provinceId": "AF-PIA"
+        "id": 1204,
+        "provinceId": "AF-PIA",
+        "population": 100270
       },
       "id": "1204"
     },
@@ -30171,11 +30231,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Gardez",
         "provinceName": "Paktya",
-        "id": "1201",
-        "provinceId": "AF-PIA"
+        "id": 1201,
+        "provinceId": "AF-PIA",
+        "population": 97523
       },
       "id": "1201"
     },
