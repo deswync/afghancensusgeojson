@@ -66367,11 +66367,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Sari Pul",
         "provinceName": "Sari Pul",
-        "id": "2001",
-        "provinceId": "AF-SAR"
+        "id": 2001,
+        "provinceId": "AF-SAR",
+        "population": 180318
       },
       "id": "2001"
     },
@@ -66663,11 +66669,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sozma Qala",
         "provinceName": "Sari Pul",
-        "id": "2004",
-        "provinceId": "AF-SAR"
+        "id": 2004,
+        "provinceId": "AF-SAR",
+        "population": 56911
       },
       "id": "2004"
     },
@@ -66881,11 +66893,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gosfandi",
         "provinceName": "Sari Pul",
-        "id": "2005",
-        "provinceId": "AF-SAR"
+        "id": 2005,
+        "provinceId": "AF-SAR",
+        "population": 65156
       },
       "id": "2005"
     },
@@ -67047,11 +67065,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sang(San)Charak",
         "provinceName": "Sari Pul",
-        "id": "2007",
-        "provinceId": "AF-SAR"
+        "id": 2007,
+        "provinceId": "AF-SAR",
+        "population": 117159
       },
       "id": "2007"
     },
@@ -67273,11 +67297,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Balkh Ab",
         "provinceName": "Sari Pul",
-        "id": "2006",
-        "provinceId": "AF-SAR"
+        "id": 2006,
+        "provinceId": "AF-SAR",
+        "population": 57857
       },
       "id": "2006"
     },
@@ -67655,11 +67685,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kohistanat",
         "provinceName": "Sari Pul",
-        "id": "2003",
-        "provinceId": "AF-SAR"
+        "id": 2003,
+        "provinceId": "AF-SAR",
+        "population": 92057
       },
       "id": "2003"
     },
