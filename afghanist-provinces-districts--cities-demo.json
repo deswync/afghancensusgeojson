@@ -70625,11 +70625,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ishkamish",
         "provinceName": "Takhar",
-        "id": "1615",
-        "provinceId": "AF-TAK"
+        "id": 1615,
+        "provinceId": "AF-TAK",
+        "population": 67860
       },
       "id": "1615"
     },
@@ -70735,11 +70741,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chal",
         "provinceName": "Takhar",
-        "id": "1605",
-        "provinceId": "AF-TAK"
+        "id": 1605,
+        "provinceId": "AF-TAK",
+        "population": 32443
       },
       "id": "1605"
     },
@@ -70865,11 +70877,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Namak Ab",
         "provinceName": "Takhar",
-        "id": "1606",
-        "provinceId": "AF-TAK"
+        "id": 1606,
+        "provinceId": "AF-TAK",
+        "population": 14058
       },
       "id": "1606"
     },
@@ -71035,11 +71053,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Farkhar",
         "provinceName": "Takhar",
-        "id": "1607",
-        "provinceId": "AF-TAK"
+        "id": 1607,
+        "provinceId": "AF-TAK",
+        "population": 53998
       },
       "id": "1607"
     },
@@ -71149,11 +71173,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bangi",
         "provinceName": "Takhar",
-        "id": "1604",
-        "provinceId": "AF-TAK"
+        "id": 1604,
+        "provinceId": "AF-TAK",
+        "population": 40419
       },
       "id": "1604"
     },
@@ -71227,11 +71257,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Baharak",
         "provinceName": "Takhar",
-        "id": "1603",
-        "provinceId": "AF-TAK"
+        "id": 1603,
+        "provinceId": "AF-TAK",
+        "population": 35552
       },
       "id": "1603"
     },
@@ -71329,11 +71365,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Hazar Sumuch",
         "provinceName": "Takhar",
-        "id": "1602",
-        "provinceId": "AF-TAK"
+        "id": 1602,
+        "provinceId": "AF-TAK",
+        "population": 15816
       },
       "id": "1602"
     },
@@ -71511,11 +71553,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Taloqan",
         "provinceName": "Takhar",
-        "id": "1601",
-        "provinceId": "AF-TAK"
+        "id": 1601,
+        "provinceId": "AF-TAK",
+        "population": 263800
       },
       "id": "1601"
     },
@@ -71633,11 +71681,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kalafgan",
         "provinceName": "Takhar",
-        "id": "1608",
-        "provinceId": "AF-TAK"
+        "id": 1608,
+        "provinceId": "AF-TAK",
+        "population": 40554
       },
       "id": "1608"
     },
@@ -71831,11 +71885,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Rostaq",
         "provinceName": "Takhar",
-        "id": "1609",
-        "provinceId": "AF-TAK"
+        "id": 1609,
+        "provinceId": "AF-TAK",
+        "population": 189495
       },
       "id": "1609"
     },
@@ -71929,11 +71989,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dasht-e-Qala",
         "provinceName": "Takhar",
-        "id": "1613",
-        "provinceId": "AF-TAK"
+        "id": 1613,
+        "provinceId": "AF-TAK",
+        "population": 36769
       },
       "id": "1613"
     },
@@ -72007,11 +72073,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwaja Bahawuddin",
         "provinceName": "Takhar",
-        "id": "1612",
-        "provinceId": "AF-TAK"
+        "id": 1612,
+        "provinceId": "AF-TAK",
+        "population": 26765
       },
       "id": "1612"
     },
@@ -72093,11 +72165,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Darqad",
         "provinceName": "Takhar",
-        "id": "1617",
-        "provinceId": "AF-TAK"
+        "id": 1617,
+        "provinceId": "AF-TAK",
+        "population": 30956
       },
       "id": "1617"
     },
@@ -72171,11 +72249,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Yangi Qala",
         "provinceName": "Takhar",
-        "id": "1611",
-        "provinceId": "AF-TAK"
+        "id": 1611,
+        "provinceId": "AF-TAK",
+        "population": 51742
       },
       "id": "1611"
     },
@@ -72305,11 +72389,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chah Ab",
         "provinceName": "Takhar",
-        "id": "1610",
-        "provinceId": "AF-TAK"
+        "id": 1610,
+        "provinceId": "AF-TAK",
+        "population": 91767
       },
       "id": "1610"
     },
@@ -77387,11 +77477,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwaja Ghar",
         "provinceName": "Takhar",
-        "id": "1614",
-        "provinceId": "AF-TAK"
+        "id": 1614,
+        "provinceId": "AF-TAK",
+        "population": 77516
       },
       "id": "1614"
     },
@@ -78403,11 +78499,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Warsaj",
         "provinceName": "Takhar",
-        "id": "1616",
-        "provinceId": "AF-TAK"
+        "id": 1616,
+        "provinceId": "AF-TAK",
+        "population": 43663
       },
       "id": "1616"
     },
