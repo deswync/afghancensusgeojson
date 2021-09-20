@@ -19715,11 +19715,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dehrawud",
         "provinceName": "Uruzgan",
-        "id": "2304",
-        "provinceId": 23
+        "id": 2304,
+        "provinceId": 23,
+        "population": 70449
       },
       "id": "2304"
     },
@@ -19921,11 +19927,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shahid-e-Hassas",
         "provinceName": "Uruzgan",
-        "id": "2303",
-        "provinceId": 23
+        "id": 2303,
+        "provinceId": 23,
+        "population": 67860
       },
       "id": "2303"
     },
@@ -20107,11 +20119,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Tirin Kot",
         "provinceName": "Uruzgan",
-        "id": "2301",
-        "provinceId": 23
+        "id": 2301,
+        "provinceId": 23,
+        "population": 118443
       },
       "id": "2301"
     },
@@ -20421,11 +20439,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chora",
         "provinceName": "Uruzgan",
-        "id": "2302",
-        "provinceId": 23
+        "id": 2302,
+        "provinceId": 23,
+        "population": 58803
       },
       "id": "2302"
     },
@@ -20691,11 +20715,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khas Uruzgan",
         "provinceName": "Uruzgan",
-        "id": "2305",
-        "provinceId": 23
+        "id": 2305,
+        "provinceId": 23,
+        "population": 65021
       },
       "id": "2305"
     },
@@ -34435,11 +34465,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gizab",
-        "provinceName": "Daykundi",
-        "id": "2205",
-        "provinceId": "AF-DAY"
+        "provinceName": "Uruzgan",
+        "id": 2205,
+        "provinceId": "AF-DAY",
+        "population": 48493
       },
       "id": "2205"
     },
