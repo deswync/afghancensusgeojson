@@ -40753,11 +40753,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Du Ab",
         "provinceName": "Nuristan",
-        "id": "1403",
-        "provinceId": "AF-NUR"
+        "id": 1403,
+        "provinceId": "AF-NUR",
+        "population": 9057
       },
       "id": "1403"
     },
@@ -42323,11 +42329,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Wama",
         "provinceName": "Nuristan",
-        "id": "1405",
-        "provinceId": "AF-NUR"
+        "id": 1405,
+        "provinceId": "AF-NUR",
+        "population": 12707
       },
       "id": "1405"
     },
@@ -42461,11 +42473,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nurgaram",
         "provinceName": "Nuristan",
-        "id": "1404",
-        "provinceId": "AF-NUR"
+        "id": 1404,
+        "provinceId": "AF-NUR",
+        "population": 37174
       },
       "id": "1404"
     },
@@ -42595,11 +42613,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Waygal",
         "provinceName": "Nuristan",
-        "id": "1406",
-        "provinceId": "AF-NUR"
+        "id": 1406,
+        "provinceId": "AF-NUR",
+        "population": 22575
       },
       "id": "1406"
     },
@@ -42765,11 +42789,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kamdesh",
         "provinceName": "Nuristan",
-        "id": "1407",
-        "provinceId": "AF-NUR"
+        "id": 1407,
+        "provinceId": "AF-NUR",
+        "population": 29064
       },
       "id": "1407"
     },
@@ -47351,11 +47381,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Barg-e- Matal",
         "provinceName": "Nuristan",
-        "id": "1408",
-        "provinceId": "AF-NUR"
+        "id": 1408,
+        "provinceId": "AF-NUR",
+        "population": 17843
       },
       "id": "1408"
     },
@@ -47557,11 +47593,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Poruns",
         "provinceName": "Nuristan",
-        "id": "1401",
-        "provinceId": "AF-NUR"
+        "id": 1401,
+        "provinceId": "AF-NUR",
+        "population": 15546
       },
       "id": "1401"
     },
@@ -47775,11 +47817,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mandol",
         "provinceName": "Nuristan",
-        "id": "1402",
-        "provinceId": "AF-NUR"
+        "id": 1402,
+        "provinceId": "AF-NUR",
+        "population": 22710
       },
       "id": "1402"
     },
