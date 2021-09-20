@@ -30835,11 +30835,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nerkh",
         "provinceName": "Wardak",
-        "id": "403",
-        "provinceId": "AF-WAR"
+        "id": 403,
+        "provinceId": "AF-WAR",
+        "population": 65562
       },
       "id": "403"
     },
@@ -30945,11 +30951,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Maydan Shahr",
         "provinceName": "Wardak",
-        "id": "401",
-        "provinceId": "AF-WAR"
+        "id": 401,
+        "provinceId": "AF-WAR",
+        "population": 46611
       },
       "id": "401"
     },
@@ -31103,11 +31115,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jalrez",
         "provinceName": "Wardak",
-        "id": "402",
-        "provinceId": "AF-WAR"
+        "id": 402,
+        "provinceId": "AF-WAR",
+        "population": 60966
       },
       "id": "402"
     },
@@ -31273,11 +31291,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Saydabad",
         "provinceName": "Wardak",
-        "id": "407",
-        "provinceId": "AF-WAR"
+        "id": 407,
+        "provinceId": "AF-WAR",
+        "population": 133557
       },
       "id": "407"
     },
@@ -31395,11 +31419,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jaghatu",
         "provinceName": "Wardak",
-        "id": "409",
-        "provinceId": "AF-WAR"
+        "id": 409,
+        "provinceId": "AF-WAR",
+        "population": 52585
       },
       "id": "409"
     },
@@ -31565,11 +31595,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chak",
         "provinceName": "Wardak",
-        "id": "406",
-        "provinceId": "AF-WAR"
+        "id": 406,
+        "provinceId": "AF-WAR",
+        "population": 97059
       },
       "id": "406"
     },
@@ -31735,11 +31771,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Day Mirdad",
         "provinceName": "Wardak",
-        "id": "405",
-        "provinceId": "AF-WAR"
+        "id": 405,
+        "provinceId": "AF-WAR",
+        "population": 35687
       },
       "id": "405"
     },
@@ -31905,11 +31947,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Hesa Awal-e- Behsud",
         "provinceName": "Wardak",
-        "id": "404",
-        "provinceId": "AF-WAR"
+        "id": 404,
+        "provinceId": "AF-WAR",
+        "population": 42582
       },
       "id": "404"
     },
@@ -32191,11 +32239,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Markaz-e-Behsud",
         "provinceName": "Wardak",
-        "id": "408",
-        "provinceId": "AF-WAR"
+        "id": 408,
+        "provinceId": "AF-WAR",
+        "population": 137208
       },
       "id": "408"
     },
