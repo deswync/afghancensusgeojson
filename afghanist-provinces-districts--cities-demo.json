@@ -25633,11 +25633,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nawa",
         "provinceName": "Ghazni",
-        "id": "1119",
-        "provinceId": "AF-GHA"
+        "id": 1119,
+        "provinceId": "AF-GHA",
+        "population": 34201
       },
       "id": "1119"
     },
@@ -25779,11 +25785,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Turwo (Tarwe)",
         "provinceName": "Paktika",
-        "id": "2519",
-        "provinceId": "AF-PKA"
+        "id": 2519,
+        "provinceId": "AF-PKA",
+        "population": 11463
       },
       "id": "2519"
     },
@@ -25973,11 +25985,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Wor Mamay",
         "provinceName": "Paktika",
-        "id": "2514",
-        "provinceId": "AF-PKA"
+        "id": 2514,
+        "provinceId": "AF-PKA",
+        "population": 22157
       },
       "id": "2514"
     },
@@ -26167,11 +26185,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Waza Khah",
         "provinceName": "Paktika",
-        "id": "2513",
-        "provinceId": "AF-PKA"
+        "id": 2513,
+        "provinceId": "AF-PKA",
+        "population": 47461
       },
       "id": "2513"
     },
@@ -26341,11 +26365,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dila",
         "provinceName": "Paktika",
-        "id": "2518",
-        "provinceId": "AF-PKA"
+        "id": 2518,
+        "provinceId": "AF-PKA",
+        "population": 48684
       },
       "id": "2518"
     },
@@ -26427,11 +26457,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zarghun Shahr",
         "provinceName": "Paktika",
-        "id": "2505",
-        "provinceId": "AF-PKA"
+        "id": 2505,
+        "provinceId": "AF-PKA",
+        "population": 42779
       },
       "id": "2505"
     },
@@ -26557,11 +26593,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jani Khel",
         "provinceName": "Paktika",
-        "id": "2512",
-        "provinceId": "AF-PKA"
+        "id": 2512,
+        "provinceId": "AF-PKA",
+        "population": 37516
       },
       "id": "2512"
     },
@@ -26623,11 +26665,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Yahya Khel",
         "provinceName": "Paktika",
-        "id": "2506",
-        "provinceId": "AF-PKA"
+        "id": 2506,
+        "provinceId": "AF-PKA",
+        "population": 30291
       },
       "id": "2506"
     },
@@ -26733,11 +26781,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Omna",
         "provinceName": "Paktika",
-        "id": "2507",
-        "provinceId": "AF-PKA"
+        "id": 2507,
+        "provinceId": "AF-PKA",
+        "population": 24227
       },
       "id": "2507"
     },
@@ -26915,11 +26969,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bermel (Burmul)",
         "provinceName": "Paktika",
-        "id": "2515",
-        "provinceId": "AF-PKA"
+        "id": 2515,
+        "provinceId": "AF-PKA",
+        "population": 78351
       },
       "id": "2515"
     },
@@ -26981,11 +27041,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gian",
         "provinceName": "Paktika",
-        "id": "2516",
-        "provinceId": "AF-PKA"
+        "id": 2516,
+        "provinceId": "AF-PKA",
+        "population": 48684
       },
       "id": "2516"
     },
@@ -27115,11 +27181,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Urgun",
         "provinceName": "Paktika",
-        "id": "2510",
-        "provinceId": "AF-PKA"
+        "id": 2510,
+        "provinceId": "AF-PKA",
+        "population": 92132
       },
       "id": "2510"
     },
@@ -27189,11 +27261,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ziruk",
         "provinceName": "Paktika",
-        "id": "2517",
-        "provinceId": "AF-PKA"
+        "id": 2517,
+        "provinceId": "AF-PKA",
+        "population": 40103
       },
       "id": "2517"
     },
@@ -27247,11 +27325,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nika",
         "provinceName": "Paktika",
-        "id": "2511",
-        "provinceId": "AF-PKA"
+        "id": 2511,
+        "provinceId": "AF-PKA",
+        "population": 17340
       },
       "id": "2511"
     },
@@ -27353,11 +27437,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sar Hawzeh(Rawzeh)",
         "provinceName": "Paktika",
-        "id": "2504",
-        "provinceId": "AF-PKA"
+        "id": 2504,
+        "provinceId": "AF-PKA",
+        "population": 37701
       },
       "id": "2504"
     },
@@ -27447,11 +27537,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Yosuf Khel",
         "provinceName": "Paktika",
-        "id": "2503",
-        "provinceId": "AF-PKA"
+        "id": 2503,
+        "provinceId": "AF-PKA",
+        "population": 29703
       },
       "id": "2503"
     },
@@ -27541,11 +27637,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Sharan",
         "provinceName": "Paktika",
-        "id": "2501",
-        "provinceId": "AF-PKA"
+        "id": 2501,
+        "provinceId": "AF-PKA",
+        "population": 65939
       },
       "id": "2501"
     },
@@ -27631,11 +27733,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mata Khan",
         "provinceName": "Paktika",
-        "id": "2502",
-        "provinceId": "AF-PKA"
+        "id": 2502,
+        "provinceId": "AF-PKA",
+        "population": 27664
       },
       "id": "2502"
     },
@@ -46529,11 +46637,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gomal",
         "provinceName": "Paktika",
-        "id": "2508",
-        "provinceId": "AF-PKA"
+        "id": 2508,
+        "provinceId": "AF-PKA",
+        "population": 47400
       },
       "id": "2508"
     },
@@ -51997,11 +52111,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sarobi",
         "provinceName": "Paktika",
-        "id": "2509",
-        "provinceId": "AF-PKA"
+        "id": 2509,
+        "provinceId": "AF-PKA",
+        "population": 39533
       },
       "id": "2509"
     },
