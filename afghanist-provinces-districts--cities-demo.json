@@ -53087,11 +53087,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gulran",
         "provinceName": "Herat",
-        "id": "3008",
-        "provinceId": "AF-HER"
+        "id": 3008,
+        "provinceId": "AF-HER",
+        "population": 108280
       },
       "id": "3008"
     },
@@ -53269,11 +53275,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kohsan",
         "provinceName": "Herat",
-        "id": "3014",
-        "provinceId": "AF-HER"
+        "id": 3014,
+        "provinceId": "AF-HER",
+        "population": 62588
       },
       "id": "3014"
     },
@@ -53467,11 +53479,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kushk",
         "provinceName": "Herat",
-        "id": "3003",
-        "provinceId": "AF-HER"
+        "id": 3003,
+        "provinceId": "AF-HER",
+        "population": 144190
       },
       "id": "3003"
     },
@@ -53657,11 +53675,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kushk-e-Kohna",
         "provinceName": "Herat",
-        "id": "3013",
-        "provinceId": "AF-HER"
+        "id": 3013,
+        "provinceId": "AF-HER",
+        "population": 52585
       },
       "id": "3013"
     },
@@ -53975,11 +53999,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ghoryan",
         "provinceName": "Herat",
-        "id": "3009",
-        "provinceId": "AF-HER"
+        "id": 3009,
+        "provinceId": "AF-HER",
+        "population": 103923
       },
       "id": "3009"
     },
@@ -54193,11 +54223,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zinda Jan",
         "provinceName": "Herat",
-        "id": "3004",
-        "provinceId": "AF-HER"
+        "id": 3004,
+        "provinceId": "AF-HER",
+        "population": 65697
       },
       "id": "3004"
     },
@@ -54679,11 +54715,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Adraskan",
         "provinceName": "Herat",
-        "id": "3010",
-        "provinceId": "AF-HER"
+        "id": 3010,
+        "provinceId": "AF-HER",
+        "population": 61777
       },
       "id": "3010"
     },
@@ -54877,11 +54919,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pashtun  Zarghun",
         "provinceName": "Herat",
-        "id": "3006",
-        "provinceId": "AF-HER"
+        "id": 3006,
+        "provinceId": "AF-HER",
+        "population": 115309
       },
       "id": "3006"
     },
@@ -55063,11 +55111,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Farsi",
         "provinceName": "Herat",
-        "id": "3011",
-        "provinceId": "AF-HER"
+        "id": 3011,
+        "provinceId": "AF-HER",
+        "population": 35282
       },
       "id": "3011"
     },
@@ -55297,11 +55351,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Obe",
         "provinceName": "Herat",
-        "id": "3012",
-        "provinceId": "AF-HER"
+        "id": 3012,
+        "provinceId": "AF-HER",
+        "population": 87362
       },
       "id": "3012"
     },
@@ -55543,11 +55603,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chisht-e-Sharif",
         "provinceName": "Herat",
-        "id": "3016",
-        "provinceId": "AF-HER"
+        "id": 3016,
+        "provinceId": "AF-HER",
+        "population": 27307
       },
       "id": "3016"
     },
@@ -55773,11 +55839,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Karukh",
         "provinceName": "Herat",
-        "id": "3007",
-        "provinceId": "AF-HER"
+        "id": 3007,
+        "provinceId": "AF-HER",
+        "population": 73849
       },
       "id": "3007"
     },
@@ -55827,11 +55899,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Herat",
         "provinceName": "Herat",
-        "id": "3001",
-        "provinceId": "AF-HER"
+        "id": 3001,
+        "provinceId": "AF-HER",
+        "population": 592902
       },
       "id": "3001"
     },
@@ -56003,11 +56081,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Injil",
         "provinceName": "Herat",
-        "id": "3002",
-        "provinceId": "AF-HER"
+        "id": 3002,
+        "provinceId": "AF-HER",
+        "population": 281309
       },
       "id": "3002"
     },
@@ -56257,11 +56341,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Guzara",
         "provinceName": "Herat",
-        "id": "3005",
-        "provinceId": "AF-HER"
+        "id": 3005,
+        "provinceId": "AF-HER",
+        "population": 168839
       },
       "id": "3005"
     },
@@ -80191,11 +80281,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shindand",
         "provinceName": "Herat",
-        "id": "3015",
-        "provinceId": "AF-HER"
+        "id": 3015,
+        "provinceId": "AF-HER",
+        "population": 49024
       },
       "id": "3015"
     },
