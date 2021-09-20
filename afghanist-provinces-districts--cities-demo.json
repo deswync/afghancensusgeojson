@@ -72447,11 +72447,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shahr-e-Buzorg",
         "provinceName": "Badakhshan",
-        "id": "1508",
-        "provinceId": "AF-BDS"
+        "id": 1508,
+        "provinceId": "AF-BDS",
+        "population": 60155
       },
       "id": "1508"
     },
@@ -72561,11 +72567,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Yawan",
         "provinceName": "Badakhshan",
-        "id": "1507",
-        "provinceId": "AF-BDS"
+        "id": 1507,
+        "provinceId": "AF-BDS",
+        "population": 37310
       },
       "id": "1507"
     },
@@ -72739,11 +72751,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Raghistan",
         "provinceName": "Badakhshan",
-        "id": "1506",
-        "provinceId": "AF-BDS"
+        "id": 1506,
+        "provinceId": "AF-BDS",
+        "population": 45556
       },
       "id": "1506"
     },
@@ -72857,11 +72875,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwahan",
         "provinceName": "Badakhshan",
-        "id": "1517",
-        "provinceId": "AF-BDS"
+        "id": 1517,
+        "provinceId": "AF-BDS",
+        "population": 19060
       },
       "id": "1517"
     },
@@ -73027,11 +73051,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kof Ab",
         "provinceName": "Badakhshan",
-        "id": "1516",
-        "provinceId": "AF-BDS"
+        "id": 1516,
+        "provinceId": "AF-BDS",
+        "population": 25684
       },
       "id": "1516"
     },
@@ -73137,11 +73167,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Yaftal-e-Sufla",
         "provinceName": "Badakhshan",
-        "id": "1502",
-        "provinceId": "AF-BDS"
+        "id": 1502,
+        "provinceId": "AF-BDS",
+        "population": 60695
       },
       "id": "1502"
     },
@@ -73231,11 +73267,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kohistan",
         "provinceName": "Badakhshan",
-        "id": "1505",
-        "provinceId": "AF-BDS"
+        "id": 1505,
+        "provinceId": "AF-BDS",
+        "population": 19061
       },
       "id": "1505"
     },
@@ -73361,11 +73403,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shaki",
         "provinceName": "Badakhshan",
-        "id": "1525",
-        "provinceId": "AF-BDS"
+        "id": 1525,
+        "provinceId": "AF-BDS",
+        "population": 30280
       },
       "id": "1525"
     },
@@ -73523,11 +73571,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Darwaz",
         "provinceName": "Badakhshan",
-        "id": "1524",
-        "provinceId": "AF-BDS"
+        "id": 1524,
+        "provinceId": "AF-BDS",
+        "population": 30416
       },
       "id": "1524"
     },
@@ -73717,11 +73771,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Darwaz-e-Balla",
         "provinceName": "Badakhshan",
-        "id": "1515",
-        "provinceId": "AF-BDS"
+        "id": 1515,
+        "provinceId": "AF-BDS",
+        "population": 26631
       },
       "id": "1515"
     },
@@ -73955,11 +74015,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shighnan",
         "provinceName": "Badakhshan",
-        "id": "1514",
-        "provinceId": "AF-BDS"
+        "id": 1514,
+        "provinceId": "AF-BDS",
+        "population": 32038
       },
       "id": "1514"
     },
@@ -74097,11 +74163,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Arghanj Khwa",
         "provinceName": "Badakhshan",
-        "id": "1504",
-        "provinceId": "AF-BDS"
+        "id": 1504,
+        "provinceId": "AF-BDS",
+        "population": 18520
       },
       "id": "1504"
     },
@@ -74191,11 +74263,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Faiz-Abad",
         "provinceName": "Badakhshan",
-        "id": "1501",
-        "provinceId": "AF-BDS"
+        "id": 1501,
+        "provinceId": "AF-BDS",
+        "population": 78757
       },
       "id": "1501"
     },
@@ -74341,11 +74419,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shuhada",
         "provinceName": "Badakhshan",
-        "id": "1513",
-        "provinceId": "AF-BDS"
+        "id": 1513,
+        "provinceId": "AF-BDS",
+        "population": 39742
       },
       "id": "1513"
     },
@@ -74419,11 +74503,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khash",
         "provinceName": "Badakhshan",
-        "id": "1511",
-        "provinceId": "AF-BDS"
+        "id": 1511,
+        "provinceId": "AF-BDS",
+        "population": 43798
       },
       "id": "1511"
     },
@@ -74585,11 +74675,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Argo",
         "provinceName": "Badakhshan",
-        "id": "1503",
-        "provinceId": "AF-BDS"
+        "id": 1503,
+        "provinceId": "AF-BDS",
+        "population": 90165
       },
       "id": "1503"
     },
@@ -74695,11 +74791,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Darayem",
         "provinceName": "Badakhshan",
-        "id": "1510",
-        "provinceId": "AF-BDS"
+        "id": 1510,
+        "provinceId": "AF-BDS",
+        "population": 70834
       },
       "id": "1510"
     },
@@ -74869,11 +74971,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Teshkan",
         "provinceName": "Badakhshan",
-        "id": "1509",
-        "provinceId": "AF-BDS"
+        "id": 1509,
+        "provinceId": "AF-BDS",
+        "population": 34336
       },
       "id": "1509"
     },
@@ -74951,11 +75059,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Baharak",
         "provinceName": "Badakhshan",
-        "id": "1512",
-        "provinceId": "AF-BDS"
+        "id": 1512,
+        "provinceId": "AF-BDS",
+        "population": 33119
       },
       "id": "1512"
     },
@@ -75069,11 +75183,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Warduj",
         "provinceName": "Badakhshan",
-        "id": "1522",
-        "provinceId": "AF-BDS"
+        "id": 1522,
+        "provinceId": "AF-BDS",
+        "population": 25144
       },
       "id": "1522"
     },
@@ -75231,11 +75351,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jorm",
         "provinceName": "Badakhshan",
-        "id": "1521",
-        "provinceId": "AF-BDS"
+        "id": 1521,
+        "provinceId": "AF-BDS",
+        "population": 43445
       },
       "id": "1521"
     },
@@ -75405,11 +75531,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zebak",
         "provinceName": "Badakhshan",
-        "id": "1527",
-        "provinceId": "AF-BDS"
+        "id": 1527,
+        "provinceId": "AF-BDS",
+        "population": 9057
       },
       "id": "1527"
     },
@@ -75595,11 +75727,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ishkashem",
         "provinceName": "Badakhshan",
-        "id": "1523",
-        "provinceId": "AF-BDS"
+        "id": 1523,
+        "provinceId": "AF-BDS",
+        "population": 15951
       },
       "id": "1523"
     },
@@ -76309,11 +76447,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Wakhan",
         "provinceName": "Badakhshan",
-        "id": "1528",
-        "provinceId": "AF-BDS"
+        "id": 1528,
+        "provinceId": "AF-BDS",
+        "population": 17167
       },
       "id": "1528"
     },
@@ -76663,11 +76807,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Koran wa Monjan",
         "provinceName": "Badakhshan",
-        "id": "1526",
-        "provinceId": "AF-BDS"
+        "id": 1526,
+        "provinceId": "AF-BDS",
+        "population": 10949
       },
       "id": "1526"
     },
@@ -76853,11 +77003,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Yamgan",
         "provinceName": "Badakhshan",
-        "id": "1520",
-        "provinceId": "AF-BDS"
+        "id": 1520,
+        "provinceId": "AF-BDS",
+        "population": 29604
       },
       "id": "1520"
     },
@@ -76983,11 +77139,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Keshem",
         "provinceName": "Badakhshan",
-        "id": "1518",
-        "provinceId": "AF-BDS"
+        "id": 1518,
+        "provinceId": "AF-BDS",
+        "population": 93004
       },
       "id": "1518"
     },
@@ -77137,11 +77299,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tagab",
         "provinceName": "Badakhshan",
-        "id": "1519",
-        "provinceId": "AF-BDS"
+        "id": 1519,
+        "provinceId": "AF-BDS",
+        "population": 32307
       },
       "id": "1519"
     },
