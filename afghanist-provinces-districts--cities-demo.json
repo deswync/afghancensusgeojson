@@ -37739,11 +37739,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Surobi",
         "provinceName": "Kabul",
-        "id": "113",
-        "provinceId": "AF-JOW"
+        "id": 113,
+        "provinceId": "AF-JOW",
+        "population": 63805
       },
       "id": "113"
     },
@@ -37805,11 +37811,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Hesa Awal-e- Kohestan",
         "provinceName": "Kapisa",
-        "id": "207",
-        "provinceId": "AF-KAP"
+        "id": 207,
+        "provinceId": "AF-KAP",
+        "population": 78269
       },
       "id": "207"
     },
@@ -38467,11 +38479,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Hisa Duwum-e- Kohestan",
         "provinceName": "Kapisa",
-        "id": "204",
-        "provinceId": "AF-KAP"
+        "id": 204,
+        "provinceId": "AF-KAP",
+        "population": 51774
       },
       "id": "204"
     },
@@ -38549,11 +38567,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Mahmud-e- Raqi",
         "provinceName": "Kapisa",
-        "id": "201",
-        "provinceId": "AF-KAP"
+        "id": 201,
+        "provinceId": "AF-KAP",
+        "population": 73998
       },
       "id": "201"
     },
@@ -38615,11 +38639,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Koh Band",
         "provinceName": "Kapisa",
-        "id": "203",
-        "provinceId": "AF-KAP"
+        "id": 203,
+        "provinceId": "AF-KAP",
+        "population": 27036
       },
       "id": "203"
     },
@@ -38717,11 +38747,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nejrab",
         "provinceName": "Kapisa",
-        "id": "202",
-        "provinceId": "AF-KAP"
+        "id": 202,
+        "provinceId": "AF-KAP",
+        "population": 129231
       },
       "id": "202"
     },
@@ -38835,11 +38871,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tagab",
         "provinceName": "Kapisa",
-        "id": "205",
-        "provinceId": "AF-KAP"
+        "id": 205,
+        "provinceId": "AF-KAP",
+        "population": 93004
       },
       "id": "205"
     },
@@ -38929,11 +38971,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Alasay",
         "provinceName": "Kapisa",
-        "id": "206",
-        "provinceId": "AF-KAP"
+        "id": 206,
+        "provinceId": "AF-KAP",
+        "population": 43528
       },
       "id": "206"
     },
