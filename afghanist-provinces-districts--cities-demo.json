@@ -29803,11 +29803,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kharwar",
         "provinceName": "Logar",
-        "id": "506",
-        "provinceId": "AF-LOG"
+        "id": 506,
+        "provinceId": "AF-LOG",
+        "population": 30145
       },
       "id": "506"
     },
@@ -30119,11 +30125,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Azra",
         "provinceName": "Logar",
-        "id": "507",
-        "provinceId": "AF-LOG"
+        "id": 507,
+        "provinceId": "AF-LOG",
+        "population": 23387
       },
       "id": "507"
     },
@@ -30213,11 +30225,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khoshi",
         "provinceName": "Logar",
-        "id": "502",
-        "provinceId": "AF-LOG"
+        "id": 502,
+        "provinceId": "AF-LOG",
+        "population": 27712
       },
       "id": "502"
     },
@@ -30307,11 +30325,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Charkh",
         "provinceName": "Logar",
-        "id": "505",
-        "provinceId": "AF-LOG"
+        "id": 505,
+        "provinceId": "AF-LOG",
+        "population": 51098
       },
       "id": "505"
     },
@@ -30381,11 +30405,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Baraki Barak",
         "provinceName": "Logar",
-        "id": "504",
-        "provinceId": "AF-LOG"
+        "id": 504,
+        "provinceId": "AF-LOG",
+        "population": 100975
       },
       "id": "504"
     },
@@ -30539,11 +30569,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Pul-e- Alam",
         "provinceName": "Logar",
-        "id": "501",
-        "provinceId": "AF-LOG"
+        "id": 501,
+        "provinceId": "AF-LOG",
+        "population": 121935
       },
       "id": "501"
     },
@@ -30681,11 +30717,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mohammad Agha",
         "provinceName": "Logar",
-        "id": "503",
-        "provinceId": "AF-LOG"
+        "id": 503,
+        "provinceId": "AF-LOG",
+        "population": 86785
       },
       "id": "503"
     },
