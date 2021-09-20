@@ -38671,11 +38671,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dara-e-Nur",
         "provinceName": "Nangarhar",
-        "id": "609",
-        "provinceId": "AF-NAN"
+        "id": 609,
+        "provinceId": "AF-NAN",
+        "population": 46367
       },
       "id": "609"
     },
@@ -39361,11 +39367,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Daulat Shah",
         "provinceName": "Laghman",
-        "id": "705",
-        "provinceId": "AF-LAG"
+        "id": 705,
+        "provinceId": "AF-LAG",
+        "population": 38255
       },
       "id": "705"
     },
@@ -39503,11 +39515,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Alishang",
         "provinceName": "Laghman",
-        "id": "702",
-        "provinceId": "AF-LAG"
+        "id": 702,
+        "provinceId": "AF-LAG",
+        "population": 82054
       },
       "id": "702"
     },
@@ -39649,11 +39667,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qarghayi",
         "provinceName": "Laghman",
-        "id": "703",
-        "provinceId": "AF-LAG"
+        "id": 703,
+        "provinceId": "AF-LAG",
+        "population": 112740
       },
       "id": "703"
     },
@@ -39799,11 +39823,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Mehtarlam",
         "provinceName": "Laghman",
-        "id": "701",
-        "provinceId": "AF-LAG"
+        "id": 701,
+        "provinceId": "AF-LAG",
+        "population": 149330
       },
       "id": "701"
     },
@@ -39921,11 +39951,17 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Alingar",
         "provinceName": "Laghman",
-        "id": "704",
-        "provinceId": "AF-LAG"
+        "id": 704,
+        "provinceId": "AF-LAG",
+        "population": 111253
       },
       "id": "704"
     },
