@@ -17354,14 +17354,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Maywand",
         "provinceName": "Kandahar",
         "id": 3308,
         "provinceId": "AF-KAN",
-        "population": 67454
+        "population": 67454,
+        "tweetCount": 0
       },
       "id": "3308"
     },
@@ -17478,14 +17479,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Kandahar",
         "provinceName": "Kandahar",
         "id": 3301,
         "provinceId": "AF-KAN",
-        "population": 651484
+        "population": 651484,
+        "tweetCount": 825
       },
       "id": "3301"
     },
@@ -17606,14 +17608,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zheray",
         "provinceName": "Kandahar",
         "id": 3303,
         "provinceId": "AF-KAN",
-        "population": 98681
+        "population": 98681,
+        "tweetCount": 0
       },
       "id": "3303"
     },
@@ -17890,14 +17893,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Arghistan",
         "provinceName": "Kandahar",
         "id": 3312,
         "provinceId": "AF-KAN",
-        "population": 39608
+        "population": 39608,
+        "tweetCount": 0
       },
       "id": "3312"
     },
@@ -18154,14 +18158,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Maruf",
         "provinceName": "Kandahar",
         "id": 3316,
         "provinceId": "AF-KAN",
-        "population": 37985
+        "population": 37985,
+        "tweetCount": 0
       },
       "id": "3316"
     },
@@ -45005,14 +45010,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nad-e-Ali",
         "provinceName": "Hilmand",
         "id": 3203,
         "provinceId": "AF-HEL",
-        "population": 190195
+        "population": 190195,
+        "tweetCount": 0
       },
       "id": "3203"
     },
@@ -45121,14 +45127,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nawa-e-Barak Zaiy",
         "provinceName": "Hilmand",
         "id": 3204,
         "provinceId": "AF-HEL",
-        "population": 113203
+        "population": 113203,
+        "tweetCount": 0
       },
       "id": "3204"
     },
@@ -45297,14 +45304,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Lashkar Gah",
         "provinceName": "Hilmand",
         "id": 3201,
         "provinceId": "AF-HEL",
-        "population": 198463
+        "population": 198463,
+        "tweetCount": 23
       },
       "id": "3201"
     },
@@ -45529,14 +45537,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Wa Sher",
         "provinceName": "Hilmand",
         "id": 3208,
         "provinceId": "AF-HEL",
-        "population": 29450
+        "population": 29450,
+        "tweetCount": 0
       },
       "id": "3208"
     },
@@ -45685,14 +45694,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nahr-e-Saraj",
         "provinceName": "Hilmand",
         "id": 3202,
         "provinceId": "AF-HEL",
-        "population": 177947
+        "population": 177947,
+        "tweetCount": 0
       },
       "id": "3202"
     },
