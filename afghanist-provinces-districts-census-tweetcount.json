@@ -55487,14 +55487,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Obe",
         "provinceName": "Herat",
         "id": 3012,
         "provinceId": "AF-HER",
-        "population": 87362
+        "population": 87362,
+        "tweetCount": 0
       },
       "id": "3012"
     },
@@ -56693,14 +56694,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Muqur",
         "provinceName": "Badghis",
         "id": 2902,
         "provinceId": "AF-BDG",
-        "population": 27307
+        "population": 27307,
+        "tweetCount": 0
       },
       "id": "2902"
     },
@@ -56869,14 +56871,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ab Kamari",
         "provinceName": "Badghis",
         "id": 2903,
         "provinceId": "AF-BDG",
-        "population": 84622
+        "population": 84622,
+        "tweetCount": 0
       },
       "id": "2903"
     },
@@ -57137,14 +57140,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qadis",
         "provinceName": "Badghis",
         "id": 2904,
         "provinceId": "AF-BDG",
-        "population": 104629
+        "population": 104629,
+        "tweetCount": 0
       },
       "id": "2904"
     },
@@ -57601,14 +57605,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Jawand",
         "provinceName": "Badghis",
         "id": 2905,
         "provinceId": "AF-BDG",
-        "population": 90706
+        "population": 90706,
+        "tweetCount": 0
       },
       "id": "2905"
     },
@@ -58025,14 +58030,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bala Murghab",
         "provinceName": "Badghis",
         "id": 2906,
         "provinceId": "AF-BDG",
-        "population": 111793
+        "population": 111793,
+        "tweetCount": 0
       },
       "id": "2906"
     },
@@ -58197,14 +58203,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ghormach",
         "provinceName": "Badghis",
         "id": 2907,
         "provinceId": "AF-BDG",
-        "population": 63399
+        "population": 63399,
+        "tweetCount": 0
       },
       "id": "2907"
     },
@@ -62486,14 +62493,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tolak",
         "provinceName": "Ghor",
         "id": 2109,
         "provinceId": "AF-GHO",
-        "population": 59209
+        "population": 59209,
+        "tweetCount": 0
       },
       "id": "2109"
     },
@@ -80538,14 +80546,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Qala-e-Naw",
         "provinceName": "Badghis",
         "id": 2901,
         "provinceId": "AF-BDG",
-        "population": 76841
+        "population": 76841,
+        "tweetCount": 0
       },
       "id": "2901"
     },
