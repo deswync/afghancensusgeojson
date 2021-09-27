@@ -55740,14 +55740,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chisht-e-Sharif",
         "provinceName": "Herat",
         "id": 3016,
         "provinceId": "AF-HER",
-        "population": 27307
+        "population": 27307,
+        "tweetCount": 0
       },
       "id": "3016"
     },
@@ -58400,14 +58401,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Almar",
         "provinceName": "Faryab",
         "id": 2805,
         "provinceId": "AF-FYB",
-        "population": 80838
+        "population": 80838,
+        "tweetCount": 0
       },
       "id": "2805"
     },
@@ -58628,14 +58630,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kohistan",
         "provinceName": "Faryab",
         "id": 2807,
         "provinceId": "AF-FYB",
-        "population": 62723
+        "population": 62723,
+        "tweetCount": 1
       },
       "id": "2807"
     },
@@ -59332,14 +59335,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pashtun kot",
         "provinceName": "Faryab",
         "id": 2803,
         "provinceId": "AF-FYB",
-        "population": 217098
+        "population": 217098,
+        "tweetCount": 0
       },
       "id": "2803"
     },
@@ -59404,14 +59408,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Maymana",
         "provinceName": "Faryab",
         "id": 2801,
         "provinceId": "AF-FYB",
-        "population": 98284
+        "population": 98284,
+        "tweetCount": 0
       },
       "id": "2801"
     },
@@ -59528,14 +59533,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwaja Sabzposh",
         "provinceName": "Faryab",
         "id": 2802,
         "provinceId": "AF-FYB",
-        "population": 58398
+        "population": 58398,
+        "tweetCount": 0
       },
       "id": "2802"
     },
@@ -59752,14 +59758,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shirin Tagab",
         "provinceName": "Faryab",
         "id": 2804,
         "provinceId": "AF-FYB",
-        "population": 93679
+        "population": 93679,
+        "tweetCount": 0
       },
       "id": "2804"
     },
@@ -59956,14 +59963,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dawlat Abad",
         "provinceName": "Faryab",
         "id": 2810,
         "provinceId": "AF-FYB",
-        "population": 56191
+        "population": 56191,
+        "tweetCount": 0
       },
       "id": "2810"
     },
@@ -60080,14 +60088,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qaram Qol",
         "provinceName": "Faryab",
         "id": 2812,
         "provinceId": "AF-FYB",
-        "population": 22575
+        "population": 22575,
+        "tweetCount": 0
       },
       "id": "2812"
     },
@@ -60172,14 +60181,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qorghan",
         "provinceName": "Faryab",
         "id": 2814,
         "provinceId": "AF-FYB",
-        "population": 54207
+        "population": 54207,
+        "tweetCount": 0
       },
       "id": "2814"
     },
@@ -60268,14 +60278,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khan-e-Chahar Bagh",
         "provinceName": "Faryab",
         "id": 2813,
         "provinceId": "AF-FYB",
-        "population": 26630
+        "population": 26630,
+        "tweetCount": 0
       },
       "id": "2813"
     },
@@ -60812,14 +60823,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Andkhoy",
         "provinceName": "Faryab",
         "id": 2811,
         "provinceId": "AF-FYB",
-        "population": 47857
+        "population": 47857,
+        "tweetCount": 0
       },
       "id": "2811"
     },
@@ -60956,14 +60968,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khwaja Du Koh",
         "provinceName": "Jawzjan",
         "id": 2703,
         "provinceId": "AF-JOW",
-        "population": 30956
+        "population": 30956,
+        "tweetCount": 0
       },
       "id": "2703"
     },
@@ -61740,14 +61753,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khamyab",
         "provinceName": "Jawzjan",
         "id": 2710,
         "provinceId": "AF-JOW",
-        "population": 16086
+        "population": 16086,
+        "tweetCount": 0
       },
       "id": "2710"
     },
@@ -62261,14 +62275,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Taywarah",
         "provinceName": "Ghor",
         "id": 2106,
         "provinceId": "AF-GHO",
-        "population": 105170
+        "population": 105170,
+        "tweetCount": 0
       },
       "id": "2106"
     },
@@ -62830,14 +62845,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shahrak",
         "provinceName": "Ghor",
         "id": 2105,
         "provinceId": "AF-GHO",
-        "population": 68806
+        "population": 68806,
+        "tweetCount": 0
       },
       "id": "2105"
     },
@@ -63186,14 +63202,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Du Lina",
         "provinceName": "Ghor",
         "id": 2103,
         "provinceId": "AF-GHO",
-        "population": 41500
+        "population": 41500,
+        "tweetCount": 0
       },
       "id": "2103"
     },
@@ -63354,14 +63371,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chahar Sadra",
         "provinceName": "Ghor",
         "id": 2102,
         "provinceId": "AF-GHO",
-        "population": 31497
+        "population": 31497,
+        "tweetCount": 0
       },
       "id": "2102"
     },
@@ -63846,14 +63864,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Chaghcharan",
         "provinceName": "Ghor",
         "id": 2101,
         "provinceId": "AF-GHO",
-        "population": 134906
+        "population": 134906,
+        "tweetCount": 0
       },
       "id": "2101"
     },
@@ -81175,14 +81194,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qaysar",
         "provinceName": "Faryab",
         "id": 2806,
         "provinceId": "AF-FYB",
-        "population": 163838
+        "population": 163838,
+        "tweetCount": 0
       },
       "id": "2806"
     },
