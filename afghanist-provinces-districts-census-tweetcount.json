@@ -18343,14 +18343,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ghorak",
         "provinceName": "Kandahar",
         "id": 3315,
         "provinceId": "AF-KAN",
-        "population": 11084
+        "population": 11084,
+        "tweetCount": 0
       },
       "id": "3315"
     },
@@ -18551,14 +18552,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khakrez",
         "provinceName": "Kandahar",
         "id": 3307,
         "provinceId": "AF-KAN",
-        "population": 26225
+        "population": 26225,
+        "tweetCount": 0
       },
       "id": "3307"
     },
@@ -18663,14 +18665,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Arghandab",
         "provinceName": "Kandahar",
         "id": 3302,
         "provinceId": "AF-KAN",
-        "population": 71239
+        "population": 71239,
+        "tweetCount": 2
       },
       "id": "3302"
     },
@@ -46240,14 +46243,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Musa Qaleh",
         "provinceName": "Hilmand",
         "id": 3206,
         "provinceId": "AF-HEL",
-        "population": 123876
+        "population": 123876,
+        "tweetCount": 0
       },
       "id": "3206"
     },
@@ -46364,14 +46368,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sangin",
         "provinceName": "Hilmand",
         "id": 3205,
         "provinceId": "AF-HEL",
-        "population": 78704
+        "population": 78704,
+        "tweetCount": 10
       },
       "id": "3205"
     },
@@ -46596,14 +46601,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kajaki",
         "provinceName": "Hilmand",
         "id": 3210,
         "provinceId": "AF-HEL",
-        "population": 118868
+        "population": 118868,
+        "tweetCount": 1
       },
       "id": "3210"
     },
@@ -50050,14 +50056,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Lal Wa Sarjangal",
         "provinceName": "Ghor",
         "id": 2108,
         "provinceId": "AF-GHO",
-        "population": 128826
+        "population": 128826,
+        "tweetCount": 0
       },
       "id": "2108"
     },
@@ -50398,14 +50405,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sang-e-Takht",
         "provinceName": "Daykundi",
         "id": 2207,
         "provinceId": "AF-DAY",
-        "population": 60074
+        "population": 60074,
+        "tweetCount": 0
       },
       "id": "2207"
     },
@@ -50622,14 +50630,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khadir",
         "provinceName": "Daykundi",
         "id": 2203,
         "provinceId": "AF-DAY",
-        "population": 54368
+        "population": 54368,
+        "tweetCount": 0
       },
       "id": "2203"
     },
@@ -50850,14 +50859,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "kiti",
         "provinceName": "Daykundi",
         "id": 2204,
         "provinceId": "AF-DAY",
-        "population": 57421
+        "population": 57421,
+        "tweetCount": 0
       },
       "id": "2204"
     },
@@ -51094,14 +51104,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kajran",
         "provinceName": "Daykundi",
         "id": 2208,
         "provinceId": "AF-DAY",
-        "population": 37710
+        "population": 37710,
+        "tweetCount": 0
       },
       "id": "2208"
     },
@@ -51366,14 +51377,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Baghran",
         "provinceName": "Hilmand",
         "id": 3211,
         "provinceId": "AF-HEL",
-        "population": 112617
+        "population": 112617,
+        "tweetCount": 0
       },
       "id": "3211"
     },
@@ -64048,14 +64060,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dawlat Yar",
         "provinceName": "Ghor",
         "id": 2104,
         "provinceId": "AF-GHO",
-        "population": 37581
+        "population": 37581,
+        "tweetCount": 0
       },
       "id": "2104"
     },
@@ -80945,14 +80958,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pasaband",
         "provinceName": "Ghor",
         "id": 2107,
         "provinceId": "AF-GHO",
-        "population": 109090
+        "population": 109090,
+        "tweetCount": 0
       },
       "id": "2107"
     },
