@@ -15404,14 +15404,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qala-e-Kah",
         "provinceName": "Farah",
         "id": 3106,
         "provinceId": "AF-FRA",
-        "population": 35417
+        "population": 35417,
+        "tweetCount": 0
       },
       "id": "3106"
     },
@@ -15500,14 +15501,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pusht Rod",
         "provinceName": "Farah",
         "id": 3105,
         "provinceId": "AF-FRA",
-        "population": 46772
+        "population": 46772,
+        "tweetCount": 0
       },
       "id": "3105"
     },
@@ -15692,14 +15694,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shib Koh",
         "provinceName": "Farah",
         "id": 3107,
         "provinceId": "AF-FRA",
-        "population": 26901
+        "population": 26901,
+        "tweetCount": 0
       },
       "id": "3107"
     },
@@ -15981,17 +15984,18 @@
         ]
       },
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#000000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#864646",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Farah",
         "provinceName": "Farah",
         "id": 3101,
         "provinceId": "AF-FRA",
-        "population": 130567
+        "population": 130567,
+        "tweetCount": 0
       },
       "id": "3101"
     },
@@ -16160,14 +16164,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kang",
         "provinceName": "Nimroz",
         "id": 3402,
         "provinceId": "AF-NIM",
-        "population": 25819
+        "population": 25819,
+        "tweetCount": 0
       },
       "id": "3402"
     },
@@ -16272,14 +16277,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Zaranj",
         "provinceName": "Nimroz",
         "id": 3401,
         "provinceId": "AF-NIM",
-        "population": 66653
+        "population": 66653,
+        "tweetCount": 17
       },
       "id": "3401"
     },
@@ -16464,14 +16470,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bakwa",
         "provinceName": "Farah",
         "id": 3102,
         "provinceId": "AF-FRA",
-        "population": 40825
+        "population": 40825,
+        "tweetCount": 0
       },
       "id": "3102"
     },
@@ -16680,14 +16687,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Reg",
         "provinceName": "Kandahar",
         "id": 3309,
         "provinceId": "AF-KAN",
-        "population": 10274
+        "population": 10274,
+        "tweetCount": 0
       },
       "id": "3309"
     },
@@ -16920,14 +16928,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Spin Boldak",
         "provinceName": "Kandahar",
         "id": 3311,
         "provinceId": "AF-KAN",
-        "population": 115714
+        "population": 115714,
+        "tweetCount": 11
       },
       "id": "3311"
     },
@@ -17144,14 +17153,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Panj wayi",
         "provinceName": "Kandahar",
         "id": 3304,
         "provinceId": "AF-KAN",
-        "population": 100168
+        "population": 100168,
+        "tweetCount": 0
       },
       "id": "3304"
     },
@@ -18964,14 +18974,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Daman",
         "provinceName": "Kandahar",
         "id": 3305,
         "provinceId": "AF-KAN",
-        "population": 39878
+        "population": 39878,
+        "tweetCount": 0
       },
       "id": "3305"
     },
@@ -43424,14 +43435,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khash Rod",
         "provinceName": "Nimroz",
         "id": 3405,
         "provinceId": "AF-NIM",
-        "population": 29199
+        "population": 29199,
+        "tweetCount": 0
       },
       "id": "3405"
     },
@@ -43784,14 +43796,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chakhansur",
         "provinceName": "Nimroz",
         "id": 3404,
         "provinceId": "AF-NIM",
-        "population": 27307
+        "population": 27307,
+        "tweetCount": 0
       },
       "id": "3404"
     },
@@ -43948,14 +43961,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chahar Burjak",
         "provinceName": "Nimroz",
         "id": 3403,
         "provinceId": "AF-NIM",
-        "population": 30415
+        "population": 30415,
+        "tweetCount": 0
       },
       "id": "3403"
     },
@@ -44172,14 +44186,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Deh shu",
         "provinceName": "Hilmand",
         "id": 3213,
         "provinceId": "AF-HEL",
-        "population": 30825
+        "population": 30825,
+        "tweetCount": 0
       },
       "id": "3213"
     },
@@ -44432,14 +44447,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Reg(khan Neshin)",
         "provinceName": "Hilmand",
         "id": 3212,
         "provinceId": "AF-HEL",
-        "population": 26809
+        "population": 26809,
+        "tweetCount": 1
       },
       "id": "3212"
     },
@@ -44804,14 +44820,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Garm Ser",
         "provinceName": "Hilmand",
         "id": 3209,
         "provinceId": "AF-HEL",
-        "population": 121319
+        "population": 121319,
+        "tweetCount": 2
       },
       "id": "3209"
     },
@@ -46940,14 +46957,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shor Abak",
         "provinceName": "Kandahar",
         "id": 3310,
         "provinceId": "AF-KAN",
-        "population": 13247
+        "population": 13247,
+        "tweetCount": 0
       },
       "id": "3310"
     },
@@ -47408,14 +47426,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Lash-e-Juwayn",
         "provinceName": "Farah",
         "id": 3108,
         "provinceId": "AF-FRA",
-        "population": 32173
+        "population": 32173,
+        "tweetCount": 0
       },
       "id": "3108"
     },
