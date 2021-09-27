@@ -19155,14 +19155,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nesh",
         "provinceName": "Kandahar",
         "id": 3314,
         "provinceId": "AF-KAN",
-        "population": 15411
+        "population": 15411,
+        "tweetCount": 0
       },
       "id": "3314"
     },
@@ -19475,14 +19476,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shah Wali Kot",
         "provinceName": "Kandahar",
         "id": 3306,
         "provinceId": "AF-KAN",
-        "population": 49882
+        "population": 49882,
+        "tweetCount": 0
       },
       "id": "3306"
     },
@@ -19647,14 +19649,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Miyanshin",
         "provinceName": "Kandahar",
         "id": 3313,
         "provinceId": "AF-KAN",
-        "population": 17304
+        "population": 17304,
+        "tweetCount": 0
       },
       "id": "3313"
     },
@@ -19863,14 +19866,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dehrawud",
         "provinceName": "Uruzgan",
         "id": 2304,
         "provinceId": 23,
-        "population": 70449
+        "population": 70449,
+        "tweetCount": 0
       },
       "id": "2304"
     },
@@ -20075,14 +20079,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shahid-e-Hassas",
         "provinceName": "Uruzgan",
         "id": 2303,
         "provinceId": 23,
-        "population": 67860
+        "population": 67860,
+        "tweetCount": 0
       },
       "id": "2303"
     },
@@ -20267,14 +20272,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Tirin Kot",
         "provinceName": "Uruzgan",
         "id": 2301,
         "provinceId": 23,
-        "population": 118443
+        "population": 118443,
+        "tweetCount": 0
       },
       "id": "2301"
     },
@@ -20587,14 +20593,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chora",
         "provinceName": "Uruzgan",
         "id": 2302,
         "provinceId": 23,
-        "population": 58803
+        "population": 58803,
+        "tweetCount": 0
       },
       "id": "2302"
     },
@@ -20863,14 +20870,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khas Uruzgan",
         "provinceName": "Uruzgan",
         "id": 2305,
         "provinceId": 23,
-        "population": 65021
+        "population": 65021,
+        "tweetCount": 0
       },
       "id": "2305"
     },
@@ -21039,14 +21047,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Tarnak Wa Jaldak",
         "provinceName": "Zabul",
         "id": 2404,
         "provinceId": "AF-ZAB",
-        "population": 22603
+        "population": 22603,
+        "tweetCount": 0
       },
       "id": "2404"
     },
@@ -21187,14 +21196,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mizan",
         "provinceName": "Zabul",
         "id": 2403,
         "provinceId": "AF-ZAB",
-        "population": 22001
+        "population": 22001,
+        "tweetCount": 0
       },
       "id": "2403"
     },
@@ -21555,14 +21565,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Day chopan",
         "provinceName": "Zabul",
         "id": 2408,
         "provinceId": "AF-ZAB",
-        "population": 45285
+        "population": 45285,
+        "tweetCount": 0
       },
       "id": "2408"
     },
@@ -34679,14 +34690,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gizab",
         "provinceName": "Uruzgan",
         "id": 2205,
         "provinceId": "AF-DAY",
-        "population": 48493
+        "population": 48493,
+        "tweetCount": 0
       },
       "id": "2205"
     },
@@ -34807,14 +34819,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Nili",
         "provinceName": "Daykundi",
         "id": 2201,
         "provinceId": "AF-DAY",
-        "population": 43580
+        "population": 43580,
+        "tweetCount": 0
       },
       "id": "2201"
     },
@@ -35299,14 +35312,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shahristan",
         "provinceName": "Daykundi",
         "id": 2206,
         "provinceId": "AF-DAY",
-        "population": 82152
+        "population": 82152,
+        "tweetCount": 0
       },
       "id": "2206"
     },
@@ -35571,14 +35585,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ashtarlay",
         "provinceName": "Daykundi",
         "id": 2202,
         "provinceId": "AF-DAY",
-        "population": 62244
+        "population": 62244,
+        "tweetCount": 0
       },
       "id": "2202"
     },
