@@ -46051,14 +46051,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Naw Zad",
         "provinceName": "Hilmand",
         "id": 3207,
         "provinceId": "AF-HEL",
-        "population": 99533
+        "population": 99533,
+        "tweetCount": 0
       },
       "id": "3207"
     },
@@ -51749,14 +51750,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bala Buluk",
         "provinceName": "Farah",
         "id": 3103,
         "provinceId": "AF-FRA",
-        "population": 82189
+        "population": 82189,
+        "tweetCount": 0
       },
       "id": "3103"
     },
@@ -52177,14 +52179,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gulestan",
         "provinceName": "Farah",
         "id": 3109,
         "provinceId": "AF-FRA",
-        "population": 49882
+        "population": 49882,
+        "tweetCount": 0
       },
       "id": "3109"
     },
@@ -52393,14 +52396,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khak-e-Safed",
         "provinceName": "Farah",
         "id": 3104,
         "provinceId": "AF-FRA",
-        "population": 34876
+        "population": 34876,
+        "tweetCount": 0
       },
       "id": "3104"
     },
@@ -52717,14 +52721,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Anar Dara",
         "provinceName": "Farah",
         "id": 3111,
         "provinceId": "AF-FRA",
-        "population": 32037
+        "population": 32037,
+        "tweetCount": 0
       },
       "id": "3111"
     },
@@ -53209,14 +53214,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gulran",
         "provinceName": "Herat",
         "id": 3008,
         "provinceId": "AF-HER",
-        "population": 108280
+        "population": 108280,
+        "tweetCount": 0
       },
       "id": "3008"
     },
@@ -53397,14 +53403,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kohsan",
         "provinceName": "Herat",
         "id": 3014,
         "provinceId": "AF-HER",
-        "population": 62588
+        "population": 62588,
+        "tweetCount": 0
       },
       "id": "3014"
     },
@@ -53601,14 +53608,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kushk",
         "provinceName": "Herat",
         "id": 3003,
         "provinceId": "AF-HER",
-        "population": 144190
+        "population": 144190,
+        "tweetCount": 0
       },
       "id": "3003"
     },
@@ -53797,14 +53805,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kushk-e-Kohna",
         "provinceName": "Herat",
         "id": 3013,
         "provinceId": "AF-HER",
-        "population": 52585
+        "population": 52585,
+        "tweetCount": 0
       },
       "id": "3013"
     },
@@ -54121,14 +54130,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Ghoryan",
         "provinceName": "Herat",
         "id": 3009,
         "provinceId": "AF-HER",
-        "population": 103923
+        "population": 103923,
+        "tweetCount": 0
       },
       "id": "3009"
     },
@@ -54345,14 +54355,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Zinda Jan",
         "provinceName": "Herat",
         "id": 3004,
         "provinceId": "AF-HER",
-        "population": 65697
+        "population": 65697,
+        "tweetCount": 0
       },
       "id": "3004"
     },
@@ -54837,14 +54848,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Adraskan",
         "provinceName": "Herat",
         "id": 3010,
         "provinceId": "AF-HER",
-        "population": 61777
+        "population": 61777,
+        "tweetCount": 0
       },
       "id": "3010"
     },
@@ -55041,14 +55053,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
-        "name": "Pashtun  Zarghun",
+        "name": "Pashtun Zarghun",
         "provinceName": "Herat",
         "id": 3006,
         "provinceId": "AF-HER",
-        "population": 115309
+        "population": 115309,
+        "tweetCount": 0
       },
       "id": "3006"
     },
@@ -55233,14 +55246,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Farsi",
         "provinceName": "Herat",
         "id": 3011,
         "provinceId": "AF-HER",
-        "population": 35282
+        "population": 35282,
+        "tweetCount": 0
       },
       "id": "3011"
     },
@@ -55961,14 +55975,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Karukh",
         "provinceName": "Herat",
         "id": 3007,
         "provinceId": "AF-HER",
-        "population": 73849
+        "population": 73849,
+        "tweetCount": 0
       },
       "id": "3007"
     },
@@ -56021,14 +56036,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#a24444",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Herat",
         "provinceName": "Herat",
         "id": 3001,
         "provinceId": "AF-HER",
-        "population": 592902
+        "population": 592902,
+        "tweetCount": 1024
       },
       "id": "3001"
     },
@@ -56203,14 +56219,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Injil",
         "provinceName": "Herat",
         "id": 3002,
         "provinceId": "AF-HER",
-        "population": 281309
+        "population": 281309,
+        "tweetCount": 0
       },
       "id": "3002"
     },
@@ -56463,14 +56480,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Guzara",
         "provinceName": "Herat",
         "id": 3005,
         "provinceId": "AF-HER",
-        "population": 168839
+        "population": 168839,
+        "tweetCount": 0
       },
       "id": "3005"
     },
@@ -61967,14 +61985,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Saghar",
         "provinceName": "Ghor",
         "id": 2110,
         "provinceId": "AF-GHO",
-        "population": 39878
+        "population": 39878,
+        "tweetCount": 0
       },
       "id": "2110"
     },
@@ -79937,14 +79956,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Pur Chaman",
         "provinceName": "Farah",
         "id": 3110,
         "provinceId": "AF-FRA",
-        "population": 61507
+        "population": 61507,
+        "tweetCount": 0
       },
       "id": "3110"
     },
@@ -80409,14 +80429,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shindand",
         "provinceName": "Herat",
         "id": 3015,
         "provinceId": "AF-HER",
-        "population": 49024
+        "population": 49024,
+        "tweetCount": 0
       },
       "id": "3015"
     },
