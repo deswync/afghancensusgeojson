@@ -58819,14 +58819,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Garziwan",
         "provinceName": "Faryab",
         "id": 2808,
         "provinceId": "AF-FYB",
-        "population": 87190
+        "population": 87190,
+        "tweetCount": 0
       },
       "id": "2808"
     },
@@ -59019,14 +59020,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Bil Cheragh",
         "provinceName": "Faryab",
         "id": 2809,
         "provinceId": "AF-FYB",
-        "population": 60020
+        "population": 60020,
+        "tweetCount": 0
       },
       "id": "2809"
     },
@@ -60415,14 +60417,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Darz Ab",
         "provinceName": "Jawzjan",
         "id": 2711,
         "provinceId": "AF-JOW",
-        "population": 56623
+        "population": 56623,
+        "tweetCount": 0
       },
       "id": "2711"
     },
@@ -60535,14 +60538,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qush Tepa",
         "provinceName": "Jawzjan",
         "id": 2704,
         "provinceId": "AF-JOW",
-        "population": 27036
+        "population": 27036,
+        "tweetCount": 0
       },
       "id": "2704"
     },
@@ -60731,14 +60735,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Shiberghan",
         "provinceName": "Jawzjan",
         "id": 2701,
         "provinceId": "AF-JOW",
-        "population": 196712
+        "population": 196712,
+        "tweetCount": 0
       },
       "id": "2701"
     },
@@ -61073,14 +61078,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Khanaqa",
         "provinceName": "Jawzjan",
         "id": 2706,
         "provinceId": "AF-JOW",
-        "population": 26766
+        "population": 26766,
+        "tweetCount": 0
       },
       "id": "2706"
     },
@@ -61229,14 +61235,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Fayz Abad",
         "provinceName": "Jawzjan",
         "id": 2705,
         "provinceId": "AF-JOW",
-        "population": 47854
+        "population": 47854,
+        "tweetCount": 3
       },
       "id": "2705"
     },
@@ -61337,14 +61344,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mardyan",
         "provinceName": "Jawzjan",
         "id": 2708,
         "provinceId": "AF-JOW",
-        "population": 44339
+        "population": 44339,
+        "tweetCount": 0
       },
       "id": "2708"
     },
@@ -61405,14 +61413,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Aqcha",
         "provinceName": "Jawzjan",
         "id": 2707,
         "provinceId": "AF-JOW",
-        "population": 88975
+        "population": 88975,
+        "tweetCount": 0
       },
       "id": "2707"
     },
@@ -61521,14 +61530,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Mingajik",
         "provinceName": "Jawzjan",
         "id": 2702,
         "provinceId": "AF-JOW",
-        "population": 49340
+        "population": 49340,
+        "tweetCount": 0
       },
       "id": "2702"
     },
@@ -61653,14 +61663,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Qarqin",
         "provinceName": "Jawzjan",
         "id": 2709,
         "provinceId": "AF-JOW",
-        "population": 28794
+        "population": 28794,
+        "tweetCount": 0
       },
       "id": "2709"
     },
@@ -64241,14 +64252,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Shor Tepa",
         "provinceName": "Balkh",
         "id": 1803,
         "provinceId": "AF-BAL",
-        "population": 45556
+        "population": 45556,
+        "tweetCount": 0
       },
       "id": "1803"
     },
@@ -64539,14 +64551,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Dawlat Abad",
         "provinceName": "Balkh",
         "id": 1804,
         "provinceId": "AF-BAL",
-        "population": 121247
+        "population": 121247,
+        "tweetCount": 0
       },
       "id": "1804"
     },
@@ -65103,14 +65116,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Deh Dadi",
         "provinceName": "Balkh",
         "id": 1806,
         "provinceId": "AF-BAL",
-        "population": 77593
+        "population": 77593,
+        "tweetCount": 0
       },
       "id": "1806"
     },
@@ -65203,14 +65217,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Balkh",
         "provinceName": "Balkh",
         "id": 1805,
         "provinceId": "AF-BAL",
-        "population": 138594
+        "population": 138594,
+        "tweetCount": 45
       },
       "id": "1805"
     },
@@ -65327,14 +65342,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chahar Bolak",
         "provinceName": "Balkh",
         "id": 1812,
         "provinceId": "AF-BAL",
-        "population": 93138
+        "population": 93138,
+        "tweetCount": 0
       },
       "id": "1812"
     },
@@ -65515,14 +65531,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Chemtal",
         "provinceName": "Balkh",
         "id": 1813,
         "provinceId": "AF-BAL",
-        "population": 105441
+        "population": 105441,
+        "tweetCount": 0
       },
       "id": "1813"
     },
@@ -67171,14 +67188,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Sari Pul",
         "provinceName": "Sari Pul",
         "id": 2001,
         "provinceId": "AF-SAR",
-        "population": 180318
+        "population": 180318,
+        "tweetCount": 0
       },
       "id": "2001"
     },
@@ -67335,14 +67353,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sayad",
         "provinceName": "Sari Pul",
         "id": 2002,
         "provinceId": "AF-SAR",
-        "population": 62724
+        "population": 62724,
+        "tweetCount": 0
       },
       "id": "2002"
     },
@@ -67479,14 +67498,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sozma Qala",
         "provinceName": "Sari Pul",
         "id": 2004,
         "provinceId": "AF-SAR",
-        "population": 56911
+        "population": 56911,
+        "tweetCount": 0
       },
       "id": "2004"
     },
@@ -67703,14 +67723,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Gosfandi",
         "provinceName": "Sari Pul",
         "id": 2005,
         "provinceId": "AF-SAR",
-        "population": 65156
+        "population": 65156,
+        "tweetCount": 0
       },
       "id": "2005"
     },
@@ -67875,14 +67896,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Sang(San)Charak",
         "provinceName": "Sari Pul",
         "id": 2007,
         "provinceId": "AF-SAR",
-        "population": 117159
+        "population": 117159,
+        "tweetCount": 0
       },
       "id": "2007"
     },
@@ -68495,14 +68517,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Kohistanat",
         "provinceName": "Sari Pul",
         "id": 2003,
         "provinceId": "AF-SAR",
-        "population": 92057
+        "population": 92057,
+        "tweetCount": 0
       },
       "id": "2003"
     },
@@ -81243,14 +81266,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "Provincial_Center",
         "name": "Mazar-e-Sharif",
         "provinceName": "Balkh",
         "id": 1801,
         "provinceId": "AF-BAL",
-        "population": 500207
+        "population": 500207,
+        "tweetCount": 711
       },
       "id": "1801"
     },
@@ -81417,14 +81441,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff0000",
+        "fill": "#000000",
         "fill-opacity": 0.5,
         "districtType": "District",
         "name": "Nahr-e- Shahi",
         "provinceName": "Balkh",
         "id": 1802,
         "provinceId": "AF-BAL",
-        "population": 51639
+        "population": 51639,
+        "tweetCount": 0
       },
       "id": "1802"
     }
